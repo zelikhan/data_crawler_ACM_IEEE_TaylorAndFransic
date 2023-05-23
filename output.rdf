@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/resource/2021">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Abbeel,Â Pieter</ns1:hasName>
+    <ns1:hasName>Abramson,Â DavidÂ A</ns1:hasName>
+    <ns1:hasName>Altman,Â ErikÂ R</ns1:hasName>
+    <ns1:hasName>Ando,Â Kazuto</ns1:hasName>
+    <ns1:hasName>Bale,Â Rahul</ns1:hasName>
+    <ns1:hasName>Bharatia,Â HarshalÂ V</ns1:hasName>
+    <ns1:hasName>Blazy,Â Sandrine</ns1:hasName>
+    <ns1:hasName>Blum,Â Avrim</ns1:hasName>
+    <ns1:hasName>Brewer,Â Judy</ns1:hasName>
+    <ns1:hasName>Brodley,Â Carla</ns1:hasName>
+    <ns1:hasName>Chen,Â Huarong</ns1:hasName>
+    <ns1:hasName>Dargaye,Â Zaynah</ns1:hasName>
+    <ns1:hasName>Dasgupta,Â GargiÂ Banerjee</ns1:hasName>
+    <ns1:hasName>Dexun,Â Chen</ns1:hasName>
+    <ns1:hasName>Dinur,Â Irit</ns1:hasName>
+    <ns1:hasName>Dongarra,Â Jack</ns1:hasName>
+    <ns1:hasName>Dwork,Â Cynthia</ns1:hasName>
+    <ns1:hasName>Fu,Â Haohuan</ns1:hasName>
+    <ns1:hasName>Gomes,Â Carla</ns1:hasName>
+    <ns1:hasName>Guo,Â Chu</ns1:hasName>
+    <ns1:hasName>Hidayetoglu,Â Mert</ns1:hasName>
+    <ns1:hasName>Howard,Â Ayanna</ns1:hasName>
+    <ns1:hasName>Huang,Â Heliang</ns1:hasName>
+    <ns1:hasName>Jain,Â Prateek</ns1:hasName>
+    <ns1:hasName>Jawahar,Â Cv</ns1:hasName>
+    <ns1:hasName>Jourdan,Â Jacques-Henri</ns1:hasName>
+    <ns1:hasName>Karniadakis,Â George</ns1:hasName>
+    <ns1:hasName>Kato,Â Jun</ns1:hasName>
+    <ns1:hasName>Leroy,Â Xavier</ns1:hasName>
+    <ns1:hasName>Li,Â Chunggang</ns1:hasName>
+    <ns1:hasName>Li,Â Nancy</ns1:hasName>
+    <ns1:hasName>LI,Â Xuelong</ns1:hasName>
+    <ns1:hasName>Liu,Â Alexander</ns1:hasName>
+    <ns1:hasName>Liu,Â Lucy</ns1:hasName>
+    <ns1:hasName>Martonosi,Â Margaret</ns1:hasName>
+    <ns1:hasName>MATSUOKA,Â SATOSHI</ns1:hasName>
+    <ns1:hasName>McSherry,Â Frank</ns1:hasName>
+    <ns1:hasName>Mildenhall,Â Benjamin</ns1:hasName>
+    <ns1:hasName>Narayan,Â Yash</ns1:hasName>
+    <ns1:hasName>Nissim,Â Kobbi</ns1:hasName>
+    <ns1:hasName>Onishi,Â Keiji</ns1:hasName>
+    <ns1:hasName>Patel,Â Tirthak</ns1:hasName>
+    <ns1:hasName>Peng,Â Dajia</ns1:hasName>
+    <ns1:hasName>Popa,Â RalucaÂ Ada</ns1:hasName>
+    <ns1:hasName>Raghavan,Â Manish</ns1:hasName>
+    <ns1:hasName>Roychowdhury,Â Shoumik</ns1:hasName>
+    <ns1:hasName>Schmidt,Â Michael</ns1:hasName>
+    <ns1:hasName>Schommer,Â Bernhard</ns1:hasName>
+    <ns1:hasName>Shah,Â Hiya</ns1:hasName>
+    <ns1:hasName>Sharma,Â Roohani</ns1:hasName>
+    <ns1:hasName>Smith,Â Adam</ns1:hasName>
+    <ns1:hasName>Song,Â Jiawei</ns1:hasName>
+    <ns1:hasName>Srinivasan,Â Pratul</ns1:hasName>
+    <ns1:hasName>Tristan,Â Jean-Baptiste</ns1:hasName>
+    <ns1:hasName>Tsipras,Â Dimitris</ns1:hasName>
+    <ns1:hasName>Tsubokura,Â Makoto</ns1:hasName>
+    <ns1:hasName>Vashishth,Â Shikhar</ns1:hasName>
+    <ns1:hasName>Wang,Â Zhen</ns1:hasName>
+    <ns1:hasName>Weiss,Â MarkÂ Allen</ns1:hasName>
+    <ns1:hasName>Wu,Â Wenzhao</ns1:hasName>
+    <ns1:hasName>Yang,Â Daisy</ns1:hasName>
+    <ns1:hasName>Zhao,Â Pengpeng</ns1:hasName>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Policy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Frances E. Allen Award for Outstanding Mentoring</ns1:hasAward>
+    <ns1:hasAward>ACM India Outstanding Contributions in Computing by a Woman Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Early Career Researcher Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Outstanding Contribution to Computing Education Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>IPSJ/ACM Award for Early Career Contributions to Global Research</ns1:hasAward>
+    <ns1:hasAward>CCF-ACM Award for Artificial Intelligence</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasYear>2021</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Pacific Rim</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2019">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Alon,Â Noga</ns1:hasName>
+    <ns1:hasName>Balcan,Â Maria-Florina</ns1:hasName>
+    <ns1:hasName>Ben-Ari,Â Mordechai</ns1:hasName>
+    <ns1:hasName>Ben-Nun,Â Tal</ns1:hasName>
+    <ns1:hasName>Bertino,Â Elisa</ns1:hasName>
+    <ns1:hasName>Catmull,Â Edwin</ns1:hasName>
+    <ns1:hasName>Cerf,Â Vinton</ns1:hasName>
+    <ns1:hasName>Choudhary,Â Keerti</ns1:hasName>
+    <ns1:hasName>Data,Â Deepesh</ns1:hasName>
+    <ns1:hasName>Dixit,Â AratiÂ M</ns1:hasName>
+    <ns1:hasName>Dongarra,Â Jack</ns1:hasName>
+    <ns1:hasName>Fernandez,Â GuillermoÂ Indalecio</ns1:hasName>
+    <ns1:hasName>Fernando,Â MilindaÂ Shayamal</ns1:hasName>
+    <ns1:hasName>Fox,Â Geoffrey</ns1:hasName>
+    <ns1:hasName>Gibbons,Â PhillipÂ B</ns1:hasName>
+    <ns1:hasName>Hanrahan,Â Pat</ns1:hasName>
+    <ns1:hasName>Hill,Â MarkÂ D.</ns1:hasName>
+    <ns1:hasName>Hoefler,Â Torsten</ns1:hasName>
+    <ns1:hasName>Kamei,Â Yasutaka</ns1:hasName>
+    <ns1:hasName>Kavraki,Â Lydia</ns1:hasName>
+    <ns1:hasName>Koller,Â Daphne</ns1:hasName>
+    <ns1:hasName>Ley,Â Michael</ns1:hasName>
+    <ns1:hasName>Luisier,Â Mathieu</ns1:hasName>
+    <ns1:hasName>Matias,Â Yossi</ns1:hasName>
+    <ns1:hasName>Meng,Â Kevin</ns1:hasName>
+    <ns1:hasName>Minzer,Â Dor</ns1:hasName>
+    <ns1:hasName>Mockapetris,Â Paul</ns1:hasName>
+    <ns1:hasName>Petersen,Â Lilian</ns1:hasName>
+    <ns1:hasName>Schneider,Â Timo</ns1:hasName>
+    <ns1:hasName>Silver,Â David</ns1:hasName>
+    <ns1:hasName>Simons,Â BarbaraÂ B</ns1:hasName>
+    <ns1:hasName>Smith,Â StaciÂ A.</ns1:hasName>
+    <ns1:hasName>Szegedy,Â Mario</ns1:hasName>
+    <ns1:hasName>Tarnawski,Â Jakub</ns1:hasName>
+    <ns1:hasName>Toro-Vega,Â AxelÂ S.</ns1:hasName>
+    <ns1:hasName>Wu,Â Jiajun</ns1:hasName>
+    <ns1:hasName>Zhao,Â Zeyu</ns1:hasName>
+    <ns1:hasName>Ziogas,Â Alexandros Nikolaos</ns1:hasName>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>IPSJ/ACM Award for Early Career Contributions to Global Research</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Policy Award</ns1:hasAward>
+    <ns1:hasYear>2019</ns1:hasYear>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1995">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Andreessen,Â Marc</ns1:hasName>
+    <ns1:hasName>Arora,Â Sanjeev</ns1:hasName>
+    <ns1:hasName>Berners-Lee,Â Tim</ns1:hasName>
+    <ns1:hasName>Bina,Â Eric</ns1:hasName>
+    <ns1:hasName>Blum,Â Manuel</ns1:hasName>
+    <ns1:hasName>Cailliau,Â Robert</ns1:hasName>
+    <ns1:hasName>Crawford,Â John</ns1:hasName>
+    <ns1:hasName>Gries,Â DavidÂ Joseph</ns1:hasName>
+    <ns1:hasName>Lederberg,Â Joshua</ns1:hasName>
+    <ns1:hasName>Lidtke,Â Doris</ns1:hasName>
+    <ns1:hasName>Spielman,Â DanielÂ A</ns1:hasName>
+    <ns1:hasName>Turner,Â A.Â Joe</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>1995</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2014">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bank,Â JosephÂ A.</ns1:hasName>
+    <ns1:hasName>Batson,Â Brannon</ns1:hasName>
+    <ns1:hasName>Boneh,Â Dan</ns1:hasName>
+    <ns1:hasName>Breuer,Â Alexander</ns1:hasName>
+    <ns1:hasName>Butts,Â J.Â Adam</ns1:hasName>
+    <ns1:hasName>Chao,Â JackÂ C.</ns1:hasName>
+    <ns1:hasName>Criswell,Â JohnÂ T</ns1:hasName>
+    <ns1:hasName>Demmel,Â James</ns1:hasName>
+    <ns1:hasName>Deneroff,Â MartinÂ M.</ns1:hasName>
+    <ns1:hasName>Dror,Â Ron</ns1:hasName>
+    <ns1:hasName>Duchi,Â JohnÂ C.</ns1:hasName>
+    <ns1:hasName>Dumais,Â SusanÂ T</ns1:hasName>
+    <ns1:hasName>Even,Â Amos</ns1:hasName>
+    <ns1:hasName>Fenton,Â ChristopherÂ H.</ns1:hasName>
+    <ns1:hasName>Forte,Â Anthony</ns1:hasName>
+    <ns1:hasName>Gagliardo,Â Joseph</ns1:hasName>
+    <ns1:hasName>Gill,Â Gennette</ns1:hasName>
+    <ns1:hasName>Greskamp,Â Brian</ns1:hasName>
+    <ns1:hasName>Grossman,Â J.P.</ns1:hasName>
+    <ns1:hasName>Hall,Â Wendy</ns1:hasName>
+    <ns1:hasName>Ho,Â C. Richard</ns1:hasName>
+    <ns1:hasName>Ierardi,Â DouglasÂ J</ns1:hasName>
+    <ns1:hasName>Iserovich,Â Lev</ns1:hasName>
+    <ns1:hasName>Killebrew,Â Daniel</ns1:hasName>
+    <ns1:hasName>Kleinberg,Â Jon</ns1:hasName>
+    <ns1:hasName>Kuskin,Â Jeffrey</ns1:hasName>
+    <ns1:hasName>Larson,Â Richard</ns1:hasName>
+    <ns1:hasName>Layman,Â Timothy</ns1:hasName>
+    <ns1:hasName>Lee,Â Li-Siang</ns1:hasName>
+    <ns1:hasName>Leiserson,Â CharlesÂ E</ns1:hasName>
+    <ns1:hasName>Lerer,Â AdamÂ K.</ns1:hasName>
+    <ns1:hasName>Li,Â Chester</ns1:hasName>
+    <ns1:hasName>Mackenzie,Â KennethÂ M.</ns1:hasName>
+    <ns1:hasName>Menon,Â Harshitha</ns1:hasName>
+    <ns1:hasName>Mok,Â SharkÂ Yeuk-Hai</ns1:hasName>
+    <ns1:hasName>Moraes,Â Mark</ns1:hasName>
+    <ns1:hasName>Mudge,Â Trevor</ns1:hasName>
+    <ns1:hasName>Mueller,Â Rolf</ns1:hasName>
+    <ns1:hasName>Murphy,Â RobinÂ R</ns1:hasName>
+    <ns1:hasName>Nociolo,Â Larry</ns1:hasName>
+    <ns1:hasName>Peticolas,Â JonÂ L.</ns1:hasName>
+    <ns1:hasName>Quan,Â Terry</ns1:hasName>
+    <ns1:hasName>Ramot,Â Daniel</ns1:hasName>
+    <ns1:hasName>Rashid,Â Rick</ns1:hasName>
+    <ns1:hasName>Ratnasamy,Â Sylvia</ns1:hasName>
+    <ns1:hasName>Sahami,Â Mehran</ns1:hasName>
+    <ns1:hasName>Salmon,Â John</ns1:hasName>
+    <ns1:hasName>Scarpazza,Â DanieleÂ Paolo</ns1:hasName>
+    <ns1:hasName>Schafer,Â U.Â Ben</ns1:hasName>
+    <ns1:hasName>Schafter,Â UrielÂ Ben</ns1:hasName>
+    <ns1:hasName>Sen,Â Rijurekha</ns1:hasName>
+    <ns1:hasName>Shaw,Â DavidÂ E.</ns1:hasName>
+    <ns1:hasName>Siddique,Â Naseer</ns1:hasName>
+    <ns1:hasName>Snyder,Â Chris</ns1:hasName>
+    <ns1:hasName>Snyder,Â ChristopherÂ W.</ns1:hasName>
+    <ns1:hasName>Spengler,Â Jochen</ns1:hasName>
+    <ns1:hasName>Sreejith,Â A V</ns1:hasName>
+    <ns1:hasName>Stonebraker,Â Michael</ns1:hasName>
+    <ns1:hasName>Tang,Â PingÂ Tak Peter</ns1:hasName>
+    <ns1:hasName>Tevanian,Â Avie</ns1:hasName>
+    <ns1:hasName>Theobald,Â Michael</ns1:hasName>
+    <ns1:hasName>Toma,Â Horia</ns1:hasName>
+    <ns1:hasName>Towles,Â Brian</ns1:hasName>
+    <ns1:hasName>Vitale,Â Benjamin</ns1:hasName>
+    <ns1:hasName>Wang,Â StanleyÂ C.</ns1:hasName>
+    <ns1:hasName>Wing,Â JeannetteÂ M.</ns1:hasName>
+    <ns1:hasName>Wulf,Â WilliamÂ A</ns1:hasName>
+    <ns1:hasName>Young,Â Cliff</ns1:hasName>
+    <ns1:hasName>Zaharia,Â MateiÂ Alexandru</ns1:hasName>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasYear>2014</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2000">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Berghel,Â Hal</ns1:hasName>
+    <ns1:hasName>Chan,Â William</ns1:hasName>
+    <ns1:hasName>Davidson,Â Edward</ns1:hasName>
+    <ns1:hasName>Ernst,Â MichaelÂ D.</ns1:hasName>
+    <ns1:hasName>Karmarkar,Â Narendra</ns1:hasName>
+    <ns1:hasName>Kavraki,Â Lydia</ns1:hasName>
+    <ns1:hasName>Patt,Â Yale</ns1:hasName>
+    <ns1:hasName>Vadhan,Â SalilÂ P</ns1:hasName>
+    <ns1:hasName>Wegner,Â Peter</ns1:hasName>
+    <ns1:hasName>Yao,Â AndrewÂ C</ns1:hasName>
+    <ns1:hasName>Zadeh,Â Lotfi</ns1:hasName>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasYear>2000</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2012">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Adve,Â Vikram</ns1:hasName>
+    <ns1:hasName>Avizienis,Â Algirdas</ns1:hasName>
+    <ns1:hasName>Bartoschek,Â Thomas</ns1:hasName>
+    <ns1:hasName>Broder,Â Andrei</ns1:hasName>
+    <ns1:hasName>Casado,Â Martin</ns1:hasName>
+    <ns1:hasName>Charikar,Â Moses</ns1:hasName>
+    <ns1:hasName>Cheng,Â Evan</ns1:hasName>
+    <ns1:hasName>Dean,Â JeffreyÂ A</ns1:hasName>
+    <ns1:hasName>Gabrys,Â Ryan</ns1:hasName>
+    <ns1:hasName>Ghemawat,Â Sanjay</ns1:hasName>
+    <ns1:hasName>Goldwasser,Â Shafi</ns1:hasName>
+    <ns1:hasName>Gollakota,Â Shyamnath</ns1:hasName>
+    <ns1:hasName>Gupta,Â Gagan</ns1:hasName>
+    <ns1:hasName>Hawkins,Â Peter</ns1:hasName>
+    <ns1:hasName>Indyk,Â Piotr</ns1:hasName>
+    <ns1:hasName>Ishiyama,Â Tomoaki</ns1:hasName>
+    <ns1:hasName>Katabi,Â Dina</ns1:hasName>
+    <ns1:hasName>Kedem,Â Zvi</ns1:hasName>
+    <ns1:hasName>Lattner,Â Chris</ns1:hasName>
+    <ns1:hasName>Lynch,Â Nancy</ns1:hasName>
+    <ns1:hasName>Makino,Â Junichiro</ns1:hasName>
+    <ns1:hasName>Mehta,Â Ruta</ns1:hasName>
+    <ns1:hasName>Micali,Â Silvio</ns1:hasName>
+    <ns1:hasName>Nitadori,Â Keigo</ns1:hasName>
+    <ns1:hasName>Randles,Â Amanda</ns1:hasName>
+    <ns1:hasName>Roberts,Â EricÂ S</ns1:hasName>
+    <ns1:hasName>Schoening,Â Johannes</ns1:hasName>
+    <ns1:hasName>Shoham,Â Yoav</ns1:hasName>
+    <ns1:hasName>Soffa,Â Mary Lou</ns1:hasName>
+    <ns1:hasName>Srinivasan,Â Srikanth</ns1:hasName>
+    <ns1:hasName>Sun,Â Yanhua</ns1:hasName>
+    <ns1:hasName>Tennenholtz,Â Moshe</ns1:hasName>
+    <ns1:hasName>Valero,Â Mateo</ns1:hasName>
+    <ns1:hasName>Valiant,Â Gregory</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>2012</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Pacific Rim</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2010">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Baghsorkhi,Â Sara</ns1:hasName>
+    <ns1:hasName>Bergstrom,Â Peter</ns1:hasName>
+    <ns1:hasName>Biros,Â George</ns1:hasName>
+    <ns1:hasName>Chandramowlishwaran,Â Aparna</ns1:hasName>
+    <ns1:hasName>Dally,Â William</ns1:hasName>
+    <ns1:hasName>DeBlasi,Â JosephÂ S</ns1:hasName>
+    <ns1:hasName>Eguiluz,Â AdolfoÂ G.</ns1:hasName>
+    <ns1:hasName>Ericson,Â BarbaraÂ Jane</ns1:hasName>
+    <ns1:hasName>Gentry,Â Craig</ns1:hasName>
+    <ns1:hasName>Gordon,Â LeeÂ R</ns1:hasName>
+    <ns1:hasName>Guzdial,Â Mark</ns1:hasName>
+    <ns1:hasName>Hamada,Â Tsuyoshi</ns1:hasName>
+    <ns1:hasName>Herlocker,Â Jonathan</ns1:hasName>
+    <ns1:hasName>Iacovou,Â Neophytos</ns1:hasName>
+    <ns1:hasName>Irwin,Â MaryÂ Jane</ns1:hasName>
+    <ns1:hasName>Joseph,Â Mathai</ns1:hasName>
+    <ns1:hasName>Kaashoek,Â Frans</ns1:hasName>
+    <ns1:hasName>Kanade,Â Takeo</ns1:hasName>
+    <ns1:hasName>Konstan,Â JosephÂ A</ns1:hasName>
+    <ns1:hasName>Kozhevnikov,Â Anton</ns1:hasName>
+    <ns1:hasName>Kuck,Â DavidÂ J</ns1:hasName>
+    <ns1:hasName>Lam,Â ShyongÂ K.</ns1:hasName>
+    <ns1:hasName>Lashuk,Â Ilya</ns1:hasName>
+    <ns1:hasName>Malhotra,Â Dhairya</ns1:hasName>
+    <ns1:hasName>Maltz,Â David</ns1:hasName>
+    <ns1:hasName>McNee,Â SeanÂ M</ns1:hasName>
+    <ns1:hasName>Mehlhorn,Â Kurt</ns1:hasName>
+    <ns1:hasName>Miller,Â BradleyÂ N</ns1:hasName>
+    <ns1:hasName>Moon,Â Logan</ns1:hasName>
+    <ns1:hasName>Nitadori,Â Keigo</ns1:hasName>
+    <ns1:hasName>Norman,Â MatthewÂ R.</ns1:hasName>
+    <ns1:hasName>Parno,Â Bryan</ns1:hasName>
+    <ns1:hasName>Rahimian,Â Abtin</ns1:hasName>
+    <ns1:hasName>Randles,Â Amanda</ns1:hasName>
+    <ns1:hasName>Resnick,Â PaulÂ J</ns1:hasName>
+    <ns1:hasName>Riedl,Â JohnÂ T</ns1:hasName>
+    <ns1:hasName>Sampath,Â Rahul</ns1:hasName>
+    <ns1:hasName>Schulthess,Â Thomas</ns1:hasName>
+    <ns1:hasName>Shringarpure,Â Aashay</ns1:hasName>
+    <ns1:hasName>Snyder,Â Benjamin</ns1:hasName>
+    <ns1:hasName>Suchak,Â Mitesh</ns1:hasName>
+    <ns1:hasName>Valiant,Â LeslieÂ G</ns1:hasName>
+    <ns1:hasName>Veerapaneni,Â Shravan</ns1:hasName>
+    <ns1:hasName>Vetter,Â JeffreyÂ S</ns1:hasName>
+    <ns1:hasName>Vuduc,Â RichardÂ W.</ns1:hasName>
+    <ns1:hasName>Weyuker,Â Elaine</ns1:hasName>
+    <ns1:hasName>Wilhelm,Â Reinhard</ns1:hasName>
+    <ns1:hasName>Zorin,Â Denis</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>2010</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1982">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bell,Â CÂ Gordon</ns1:hasName>
+    <ns1:hasName>Blasgen,Â MichaelÂ W</ns1:hasName>
+    <ns1:hasName>Cook,Â StephenÂ A</ns1:hasName>
+    <ns1:hasName>Gray,Â Jim</ns1:hasName>
+    <ns1:hasName>Harris,Â FredÂ H</ns1:hasName>
+    <ns1:hasName>Leiserson,Â CharlesÂ E</ns1:hasName>
+    <ns1:hasName>Lindsay,Â Bruce</ns1:hasName>
+    <ns1:hasName>Lorie,Â RaymondÂ A</ns1:hasName>
+    <ns1:hasName>McJones,Â PaulÂ R</ns1:hasName>
+    <ns1:hasName>Price,Â ThomasÂ G</ns1:hasName>
+    <ns1:hasName>Putzolu,Â Gianfranco</ns1:hasName>
+    <ns1:hasName>Ralston,Â Anthony</ns1:hasName>
+    <ns1:hasName>Reid,Â BrianÂ K.</ns1:hasName>
+    <ns1:hasName>Traiger,Â Irv</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasYear>1982</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1971">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Denning,Â PeterÂ J</ns1:hasName>
+    <ns1:hasName>Dijkstra,Â EdsgerÂ W</ns1:hasName>
+    <ns1:hasName>Gecsei,Â Jan</ns1:hasName>
+    <ns1:hasName>Knuth,Â DonaldÂ E</ns1:hasName>
+    <ns1:hasName>Lucas,Â Peter</ns1:hasName>
+    <ns1:hasName>Madden,Â J.Â Don</ns1:hasName>
+    <ns1:hasName>Mattson,Â RichardÂ L</ns1:hasName>
+    <ns1:hasName>McCarthy,Â John</ns1:hasName>
+    <ns1:hasName>Reynolds,Â JohnÂ C</ns1:hasName>
+    <ns1:hasName>Slutz,Â DonaldÂ R</ns1:hasName>
+    <ns1:hasName>Traiger,Â Irv</ns1:hasName>
+    <ns1:hasName>Walk,Â Kurt</ns1:hasName>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1971</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1997">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Brandin,Â DavidÂ H</ns1:hasName>
+    <ns1:hasName>Engelbart,Â Douglas</ns1:hasName>
+    <ns1:hasName>Lempel,Â Abraham</ns1:hasName>
+    <ns1:hasName>McCanne,Â StevenÂ R.</ns1:hasName>
+    <ns1:hasName>Mead,Â Carver</ns1:hasName>
+    <ns1:hasName>Ousterhout,Â John</ns1:hasName>
+    <ns1:hasName>Tomasulo,Â Robert</ns1:hasName>
+    <ns1:hasName>Ullman,Â JeffreyÂ D</ns1:hasName>
+    <ns1:hasName>Ziv,Â Jacob</ns1:hasName>
+    <ns1:hasName>Zweben,Â Stuart</ns1:hasName>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>1997</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1992">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Adams,Â JamesÂ M.</ns1:hasName>
+    <ns1:hasName>Bobrow,Â Daniel</ns1:hasName>
+    <ns1:hasName>Borman,Â Lorraine</ns1:hasName>
+    <ns1:hasName>Burton,Â RichardÂ R.</ns1:hasName>
+    <ns1:hasName>Deutsch,Â LÂ Peter</ns1:hasName>
+    <ns1:hasName>Flynn,Â MichaelÂ J</ns1:hasName>
+    <ns1:hasName>Harel,Â David</ns1:hasName>
+    <ns1:hasName>Kaplan,Â RonaldÂ M.</ns1:hasName>
+    <ns1:hasName>Lampson,Â ButlerÂ W</ns1:hasName>
+    <ns1:hasName>Little,Â JoyceÂ Currie</ns1:hasName>
+    <ns1:hasName>Masinter,Â LarryÂ M</ns1:hasName>
+    <ns1:hasName>McMillan,Â Kenneth</ns1:hasName>
+    <ns1:hasName>Neumann,Â PeterÂ G</ns1:hasName>
+    <ns1:hasName>Rosenblum,Â Mendel</ns1:hasName>
+    <ns1:hasName>Teitelman,Â Warren</ns1:hasName>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasYear>1992</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2002">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Adleman,Â LeonardÂ M.</ns1:hasName>
+    <ns1:hasName>Bell,Â JohnÂ B.</ns1:hasName>
+    <ns1:hasName>Chen,Â Peter</ns1:hasName>
+    <ns1:hasName>Colella,Â Phillip</ns1:hasName>
+    <ns1:hasName>Franaszek,Â PeterÂ A.</ns1:hasName>
+    <ns1:hasName>Gorgone,Â John</ns1:hasName>
+    <ns1:hasName>Gosling,Â James</ns1:hasName>
+    <ns1:hasName>Gotlieb,Â CalvinÂ C.</ns1:hasName>
+    <ns1:hasName>Guruswami,Â Venkatesan</ns1:hasName>
+    <ns1:hasName>Miller,Â Raymond</ns1:hasName>
+    <ns1:hasName>Miller,Â RobertÂ C.</ns1:hasName>
+    <ns1:hasName>Rau,Â BantwalÂ R</ns1:hasName>
+    <ns1:hasName>Rivest,Â RonaldÂ L</ns1:hasName>
+    <ns1:hasName>Roughgarden,Â Tim</ns1:hasName>
+    <ns1:hasName>Ryan,Â Pat</ns1:hasName>
+    <ns1:hasName>Shamir,Â Adi</ns1:hasName>
+    <ns1:hasName>Srikant,Â Ramakrishnan</ns1:hasName>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasYear>2002</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2017">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Avila,Â Damian</ns1:hasName>
+    <ns1:hasName>Boden,Â MargaretÂ A.</ns1:hasName>
+    <ns1:hasName>Bourne,Â Stephen</ns1:hasName>
+    <ns1:hasName>Bussonnier,Â Matthias</ns1:hasName>
+    <ns1:hasName>Chen,Â Bingwei</ns1:hasName>
+    <ns1:hasName>Chen,Â Xiaofei</ns1:hasName>
+    <ns1:hasName>Corlay,Â Sylvain</ns1:hasName>
+    <ns1:hasName>Cuny,Â Janice</ns1:hasName>
+    <ns1:hasName>Frederic,Â Jonathan</ns1:hasName>
+    <ns1:hasName>Fu,Â Haohuan</ns1:hasName>
+    <ns1:hasName>Gal-Ezer,Â Judith</ns1:hasName>
+    <ns1:hasName>Ghaffari,Â Mohsen</ns1:hasName>
+    <ns1:hasName>Granger,Â Brian</ns1:hasName>
+    <ns1:hasName>Grout,Â Jason</ns1:hasName>
+    <ns1:hasName>Guha,Â Sreya</ns1:hasName>
+    <ns1:hasName>Gulur,Â Nagendra</ns1:hasName>
+    <ns1:hasName>Gurjar,Â Rohit</ns1:hasName>
+    <ns1:hasName>Hamrick,Â Jessica</ns1:hasName>
+    <ns1:hasName>He,Â Conghui</ns1:hasName>
+    <ns1:hasName>Helmy,Â Amir</ns1:hasName>
+    <ns1:hasName>Hennessy,Â JohnÂ L</ns1:hasName>
+    <ns1:hasName>Hughes,Â ThomasÂ J.R.</ns1:hasName>
+    <ns1:hasName>Ivanov,Â Paul</ns1:hasName>
+    <ns1:hasName>Jin,Â Amy</ns1:hasName>
+    <ns1:hasName>Katabi,Â Dina</ns1:hasName>
+    <ns1:hasName>Kavraki,Â Lydia</ns1:hasName>
+    <ns1:hasName>Kelley,Â Kyle</ns1:hasName>
+    <ns1:hasName>Kluyer,Â Thomas</ns1:hasName>
+    <ns1:hasName>Labarta,Â Jesus</ns1:hasName>
+    <ns1:hasName>Liu,Â Weiguo</ns1:hasName>
+    <ns1:hasName>Mueller,Â Stefanie</ns1:hasName>
+    <ns1:hasName>Parente,Â PeterÂ James</ns1:hasName>
+    <ns1:hasName>Patterson,Â David</ns1:hasName>
+    <ns1:hasName>Perez,Â Fernando</ns1:hasName>
+    <ns1:hasName>Ragan-Kelley,Â Benjamin</ns1:hasName>
+    <ns1:hasName>Randles,Â Amanda</ns1:hasName>
+    <ns1:hasName>Rubinstein,Â Aviad</ns1:hasName>
+    <ns1:hasName>Shenker,Â ScottÂ J</ns1:hasName>
+    <ns1:hasName>Silvester,Â Steven</ns1:hasName>
+    <ns1:hasName>Smith,Â Shaden</ns1:hasName>
+    <ns1:hasName>Spector,Â BenjaminÂ F</ns1:hasName>
+    <ns1:hasName>Thacker,Â CharlesÂ P</ns1:hasName>
+    <ns1:hasName>Truell,Â Michael</ns1:hasName>
+    <ns1:hasName>Vardi,Â MosheÂ Y</ns1:hasName>
+    <ns1:hasName>Wanwang,Â Yin</ns1:hasName>
+    <ns1:hasName>Willing,Â Carol</ns1:hasName>
+    <ns1:hasName>Wulf,Â WilliamÂ A</ns1:hasName>
+    <ns1:hasName>Xue,Â Wei</ns1:hasName>
+    <ns1:hasName>Yang,Â Guangwen</ns1:hasName>
+    <ns1:hasName>Yin,Â Zekun</ns1:hasName>
+    <ns1:hasName>You,Â Yang</ns1:hasName>
+    <ns1:hasName>Zhang,Â Tingjian</ns1:hasName>
+    <ns1:hasName>Zhang,Â Wenqiang</ns1:hasName>
+    <ns1:hasName>Zhang,Â Zhenguo</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Policy Award</ns1:hasAward>
+    <ns1:hasYear>2017</ns1:hasYear>
+    <ns1:hasRegion>Latin America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Middle East</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2005">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bechtolsheim,Â Andreas</ns1:hasName>
+    <ns1:hasName>Boyer,Â RobertÂ S</ns1:hasName>
+    <ns1:hasName>Brandt,Â Achi</ns1:hasName>
+    <ns1:hasName>Colwell,Â RobertÂ P.</ns1:hasName>
+    <ns1:hasName>Dousse,Â Olivier</ns1:hasName>
+    <ns1:hasName>Ehrensperger,Â Albrecht</ns1:hasName>
+    <ns1:hasName>Gotterbarn,Â Don</ns1:hasName>
+    <ns1:hasName>Holzmann,Â GerardÂ J.</ns1:hasName>
+    <ns1:hasName>Irwin,Â MaryÂ Jane</ns1:hasName>
+    <ns1:hasName>Kaufmann,Â Matt</ns1:hasName>
+    <ns1:hasName>Kurshan,Â RobertÂ P.</ns1:hasName>
+    <ns1:hasName>Lazowska,Â Edward</ns1:hasName>
+    <ns1:hasName>Liblit,Â Ben</ns1:hasName>
+    <ns1:hasName>Mbuguah,Â Solomon</ns1:hasName>
+    <ns1:hasName>Minker,Â Jack</ns1:hasName>
+    <ns1:hasName>Moore,Â JÂ Strother</ns1:hasName>
+    <ns1:hasName>Naur,Â Peter</ns1:hasName>
+    <ns1:hasName>Reingold,Â Omer</ns1:hasName>
+    <ns1:hasName>Russell,Â Stuart</ns1:hasName>
+    <ns1:hasName>Siva,Â Ernest</ns1:hasName>
+    <ns1:hasName>Vardi,Â MosheÂ Y</ns1:hasName>
+    <ns1:hasName>Wolper,Â Pierre</ns1:hasName>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasYear>2005</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1993">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Esbin,Â JohnÂ H. (Jack)</ns1:hasName>
+    <ns1:hasName>Friedman,Â Frank</ns1:hasName>
+    <ns1:hasName>Hartmanis,Â Juris</ns1:hasName>
+    <ns1:hasName>Kistler,Â JamesÂ J.</ns1:hasName>
+    <ns1:hasName>Kuck,Â DavidÂ J</ns1:hasName>
+    <ns1:hasName>Lee,Â J.A.N.</ns1:hasName>
+    <ns1:hasName>Nayak,Â Pandu</ns1:hasName>
+    <ns1:hasName>Stearns,Â RichardÂ E</ns1:hasName>
+    <ns1:hasName>Stroustrup,Â Bjarne</ns1:hasName>
+    <ns1:hasName>Sudan,Â Madhu</ns1:hasName>
+    <ns1:hasName>Sutherland,Â Ivan</ns1:hasName>
+    <ns1:hasName>van Dam,Â Andries</ns1:hasName>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasYear>1993</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2009">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Abowd,Â GregoryÂ D.</ns1:hasName>
+    <ns1:hasName>Ananthanarayanan,Â Rajapopal</ns1:hasName>
+    <ns1:hasName>Bank,Â JosephÂ A.</ns1:hasName>
+    <ns1:hasName>Batson,Â Brannon</ns1:hasName>
+    <ns1:hasName>Bellare,Â Mihir</ns1:hasName>
+    <ns1:hasName>Berman,Â Francine</ns1:hasName>
+    <ns1:hasName>Bhatele,Â Abhinav</ns1:hasName>
+    <ns1:hasName>Bowers,Â KevinÂ J.</ns1:hasName>
+    <ns1:hasName>Brewer,Â EricÂ A.</ns1:hasName>
+    <ns1:hasName>Brown,Â Gregory</ns1:hasName>
+    <ns1:hasName>Bugnion,Â Edouard</ns1:hasName>
+    <ns1:hasName>Chow,Â Edmond</ns1:hasName>
+    <ns1:hasName>Deneroff,Â MartinÂ M.</ns1:hasName>
+    <ns1:hasName>Devine,Â Scott</ns1:hasName>
+    <ns1:hasName>Dror,Â Ron</ns1:hasName>
+    <ns1:hasName>Eastwood,Â MichaelÂ P.</ns1:hasName>
+    <ns1:hasName>Eggers,Â Susan</ns1:hasName>
+    <ns1:hasName>Eisenbach,Â Markus</ns1:hasName>
+    <ns1:hasName>Emer,Â Joel</ns1:hasName>
+    <ns1:hasName>Esser,Â StevenÂ K.</ns1:hasName>
+    <ns1:hasName>Felleisen,Â Matthias</ns1:hasName>
+    <ns1:hasName>Gentry,Â Craig</ns1:hasName>
+    <ns1:hasName>Grossman,Â J.P.</ns1:hasName>
+    <ns1:hasName>Gunawi,Â HaryadiÂ S</ns1:hasName>
+    <ns1:hasName>Hamada,Â Tsuyoshi</ns1:hasName>
+    <ns1:hasName>Ierardi,Â DouglasÂ John</ns1:hasName>
+    <ns1:hasName>Jordan,Â Michael Â I.</ns1:hasName>
+    <ns1:hasName>Klepeis,Â JohnÂ L.</ns1:hasName>
+    <ns1:hasName>Kuskin,Â Jeffrey</ns1:hasName>
+    <ns1:hasName>Larkin,Â JeffreyÂ M.</ns1:hasName>
+    <ns1:hasName>Larson,Â Richard</ns1:hasName>
+    <ns1:hasName>Lazowska,Â Edward</ns1:hasName>
+    <ns1:hasName>Lindorff-Larsen,Â Kresten</ns1:hasName>
+    <ns1:hasName>Mackenzie,Â KennethÂ M.</ns1:hasName>
+    <ns1:hasName>Maragakis,Â Paul</ns1:hasName>
+    <ns1:hasName>Modha,Â Dharmendra</ns1:hasName>
+    <ns1:hasName>Moler,Â Cleve</ns1:hasName>
+    <ns1:hasName>Moraes,Â Mark</ns1:hasName>
+    <ns1:hasName>Narumi,Â Tetsu</ns1:hasName>
+    <ns1:hasName>Nicholson,Â DonaldÂ M.</ns1:hasName>
+    <ns1:hasName>Nitadori,Â Keigo</ns1:hasName>
+    <ns1:hasName>Oguri,Â Kiyoshi</ns1:hasName>
+    <ns1:hasName>Piana,Â Stefano</ns1:hasName>
+    <ns1:hasName>Platzer,Â Andre</ns1:hasName>
+    <ns1:hasName>Randles,Â Amanda</ns1:hasName>
+    <ns1:hasName>Rogaway,Â Phillip</ns1:hasName>
+    <ns1:hasName>Rosenblum,Â Mendel</ns1:hasName>
+    <ns1:hasName>Roughgarden,Â Tim</ns1:hasName>
+    <ns1:hasName>Salmon,Â John</ns1:hasName>
+    <ns1:hasName>Schulthess,Â Thomas</ns1:hasName>
+    <ns1:hasName>Shan,Â Yibing</ns1:hasName>
+    <ns1:hasName>Shaw,Â DavidÂ E.</ns1:hasName>
+    <ns1:hasName>Silberstein,Â Mark</ns1:hasName>
+    <ns1:hasName>Simon,Â HorstÂ D</ns1:hasName>
+    <ns1:hasName>Snavely,Â KeithÂ Noah</ns1:hasName>
+    <ns1:hasName>Sugerman,Â Jeremy</ns1:hasName>
+    <ns1:hasName>Taiji,Â Makoto</ns1:hasName>
+    <ns1:hasName>Tallent,Â Nathan</ns1:hasName>
+    <ns1:hasName>Thacker,Â CharlesÂ P</ns1:hasName>
+    <ns1:hasName>Towles,Â Brian</ns1:hasName>
+    <ns1:hasName>Vardi,Â MosheÂ Y</ns1:hasName>
+    <ns1:hasName>Wang,Â Ellen</ns1:hasName>
+    <ns1:hasName>Yasuoka,Â Kenji</ns1:hasName>
+    <ns1:hasName>Yokota,Â Rio</ns1:hasName>
+    <ns1:hasName>Young,Â Cliff</ns1:hasName>
+    <ns1:hasName>Zhou,Â Chenggang</ns1:hasName>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>2009</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2007">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Applebaum,Â Benny</ns1:hasName>
+    <ns1:hasName>Buchberger,Â Bruno</ns1:hasName>
+    <ns1:hasName>Caspersen,Â KyleÂ J</ns1:hasName>
+    <ns1:hasName>Chen,Â Yong</ns1:hasName>
+    <ns1:hasName>Clarke,Â Edmund</ns1:hasName>
+    <ns1:hasName>Conitzer,Â Vincent</ns1:hasName>
+    <ns1:hasName>Emerson,Â E.Â Allen</ns1:hasName>
+    <ns1:hasName>Glosli,Â JamesÂ N</ns1:hasName>
+    <ns1:hasName>Guibas,Â Leonidas</ns1:hasName>
+    <ns1:hasName>Gunnels,Â John</ns1:hasName>
+    <ns1:hasName>Harel,Â David</ns1:hasName>
+    <ns1:hasName>Hoemmen,Â Mark</ns1:hasName>
+    <ns1:hasName>Jacob,Â Arpith</ns1:hasName>
+    <ns1:hasName>Koller,Â Daphne</ns1:hasName>
+    <ns1:hasName>Lachover,Â Hagi</ns1:hasName>
+    <ns1:hasName>Liu,Â Yan</ns1:hasName>
+    <ns1:hasName>Madduri,Â Kamesh</ns1:hasName>
+    <ns1:hasName>Naamad,Â Amnon</ns1:hasName>
+    <ns1:hasName>Patterson,Â David</ns1:hasName>
+    <ns1:hasName>Pausch,Â Randy</ns1:hasName>
+    <ns1:hasName>Paxson,Â Vern</ns1:hasName>
+    <ns1:hasName>Pnueli,Â Amir</ns1:hasName>
+    <ns1:hasName>Politi,Â Michal</ns1:hasName>
+    <ns1:hasName>Richards,Â DavidÂ F</ns1:hasName>
+    <ns1:hasName>Rudd,Â RobertÂ E</ns1:hasName>
+    <ns1:hasName>Sherman,Â Rivi</ns1:hasName>
+    <ns1:hasName>Shu,Â Chi-Wang</ns1:hasName>
+    <ns1:hasName>Sifakis,Â Joseph</ns1:hasName>
+    <ns1:hasName>Sparck-Jones,Â Karen</ns1:hasName>
+    <ns1:hasName>Streitz,Â FrederickÂ H</ns1:hasName>
+    <ns1:hasName>Trakhtenbrot,Â Mark</ns1:hasName>
+    <ns1:hasName>Trauring,Â Aron</ns1:hasName>
+    <ns1:hasName>Valero,Â Mateo</ns1:hasName>
+    <ns1:hasName>Walker,Â RobertÂ A.</ns1:hasName>
+    <ns1:hasName>Wang,Â Chao</ns1:hasName>
+    <ns1:hasName>Wang,Â Randy</ns1:hasName>
+    <ns1:hasName>Yekhanin,Â Sergey</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasYear>2007</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Pacific Rim</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2016">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Al Hassanieh,Â Haitham</ns1:hasName>
+    <ns1:hasName>Ao,Â Yulong</ns1:hasName>
+    <ns1:hasName>Astrachan,Â Owen</ns1:hasName>
+    <ns1:hasName>Bailis,Â Peter</ns1:hasName>
+    <ns1:hasName>Banks,Â Ken</ns1:hasName>
+    <ns1:hasName>Barr,Â Valerie</ns1:hasName>
+    <ns1:hasName>Berners-Lee,Â Tim</ns1:hasName>
+    <ns1:hasName>Efros,Â AlexeiÂ A.</ns1:hasName>
+    <ns1:hasName>Fiat,Â Amos</ns1:hasName>
+    <ns1:hasName>Fu,Â Haohuan</ns1:hasName>
+    <ns1:hasName>Gan,Â Lin</ns1:hasName>
+    <ns1:hasName>Gropp,Â WilliamÂ D</ns1:hasName>
+    <ns1:hasName>Heer,Â JeffreyÂ Michael</ns1:hasName>
+    <ns1:hasName>Howard,Â JohnÂ H</ns1:hasName>
+    <ns1:hasName>Hu,Â Elizabeth</ns1:hasName>
+    <ns1:hasName>Huebl,Â Axel</ns1:hasName>
+    <ns1:hasName>Kazar,Â MichaelÂ Leon</ns1:hasName>
+    <ns1:hasName>Liu,Â Fangfang</ns1:hasName>
+    <ns1:hasName>Malik,Â Jitendra</ns1:hasName>
+    <ns1:hasName>Naor,Â Moni</ns1:hasName>
+    <ns1:hasName>Nichols,Â DavidÂ A</ns1:hasName>
+    <ns1:hasName>Nichols,Â Sherri</ns1:hasName>
+    <ns1:hasName>Raychev,Â Veselin</ns1:hasName>
+    <ns1:hasName>Rexford,Â Jennifer</ns1:hasName>
+    <ns1:hasName>Rudi,Â Johann</ns1:hasName>
+    <ns1:hasName>Satyanarayanan,Â Mahadev</ns1:hasName>
+    <ns1:hasName>Schimpf,Â Gerhard</ns1:hasName>
+    <ns1:hasName>Shustek,Â LeonardÂ J</ns1:hasName>
+    <ns1:hasName>Sidebotham,Â RobertÂ N.</ns1:hasName>
+    <ns1:hasName>Spector,Â AlfredÂ Z</ns1:hasName>
+    <ns1:hasName>Stephenson,Â Chris</ns1:hasName>
+    <ns1:hasName>Swartz,Â Avi</ns1:hasName>
+    <ns1:hasName>Walter,Â Aaron</ns1:hasName>
+    <ns1:hasName>Wang,Â Lanning</ns1:hasName>
+    <ns1:hasName>Wang,Â Xinliang</ns1:hasName>
+    <ns1:hasName>Weiser,Â Uri</ns1:hasName>
+    <ns1:hasName>West,Â Michael</ns1:hasName>
+    <ns1:hasName>Xu,Â Ping</ns1:hasName>
+    <ns1:hasName>Xue,Â Wei</ns1:hasName>
+    <ns1:hasName>Yang,Â Chao</ns1:hasName>
+    <ns1:hasName>Yang,Â Guangwen</ns1:hasName>
+    <ns1:hasName>You,Â Hongtao</ns1:hasName>
+    <ns1:hasName>Zheng,Â Weinim</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasYear>2016</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2008">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Alvarez,Â Gonzalo</ns1:hasName>
+    <ns1:hasName>Bailey,Â David</ns1:hasName>
+    <ns1:hasName>Bourne,Â Stephen</ns1:hasName>
+    <ns1:hasName>Chen,Â Yong</ns1:hasName>
+    <ns1:hasName>Cortes,Â Corinna</ns1:hasName>
+    <ns1:hasName>Couch,Â SeanÂ M.</ns1:hasName>
+    <ns1:hasName>D'Azevedo,Â EduardoÂ Francisco</ns1:hasName>
+    <ns1:hasName>Daskalakis,Â Constantinos</ns1:hasName>
+    <ns1:hasName>DeWitt,Â David</ns1:hasName>
+    <ns1:hasName>Eisenbach,Â Markus</ns1:hasName>
+    <ns1:hasName>Engler,Â Dawson</ns1:hasName>
+    <ns1:hasName>Erlich,Â Yaniv</ns1:hasName>
+    <ns1:hasName>Gerber,Â Robert</ns1:hasName>
+    <ns1:hasName>Ghandeharizadeh,Â Shahram</ns1:hasName>
+    <ns1:hasName>Goldwasser,Â Shafi</ns1:hasName>
+    <ns1:hasName>Graefe,Â Goetz</ns1:hasName>
+    <ns1:hasName>Graves,Â Wayne</ns1:hasName>
+    <ns1:hasName>Grosz,Â BarbaraÂ J</ns1:hasName>
+    <ns1:hasName>Halpern,Â Joseph</ns1:hasName>
+    <ns1:hasName>Heytens,Â MichaelÂ L</ns1:hasName>
+    <ns1:hasName>Hoiem,Â Derek</ns1:hasName>
+    <ns1:hasName>Hopcroft,Â JohnÂ E</ns1:hasName>
+    <ns1:hasName>Hsiao,Â Hui-I</ns1:hasName>
+    <ns1:hasName>Katti,Â Sachin</ns1:hasName>
+    <ns1:hasName>Kent,Â Paul</ns1:hasName>
+    <ns1:hasName>Kiswany,Â SamerÂ Al</ns1:hasName>
+    <ns1:hasName>Kleinberg,Â Jon</ns1:hasName>
+    <ns1:hasName>Krishna,Â Murali</ns1:hasName>
+    <ns1:hasName>Larkin,Â JeffreyÂ M.</ns1:hasName>
+    <ns1:hasName>Lee,Â Byounghak</ns1:hasName>
+    <ns1:hasName>Levesque,Â JohnÂ M.</ns1:hasName>
+    <ns1:hasName>Liskov,Â Barbara</ns1:hasName>
+    <ns1:hasName>Maier,Â ThomasÂ A.</ns1:hasName>
+    <ns1:hasName>Mason,Â Douglas</ns1:hasName>
+    <ns1:hasName>Maxwell,Â DonÂ E.</ns1:hasName>
+    <ns1:hasName>Meredith,Â Jeremy</ns1:hasName>
+    <ns1:hasName>Meza,Â JuanÂ C</ns1:hasName>
+    <ns1:hasName>Naughton,Â JeffreyÂ F</ns1:hasName>
+    <ns1:hasName>Patterson,Â David</ns1:hasName>
+    <ns1:hasName>Quest,Â DanielÂ J</ns1:hasName>
+    <ns1:hasName>Rous,Â Bernard</ns1:hasName>
+    <ns1:hasName>Ryan,Â Pat</ns1:hasName>
+    <ns1:hasName>Ryder,Â BarbaraÂ Gershon</ns1:hasName>
+    <ns1:hasName>Schneider,Â DonovanÂ A</ns1:hasName>
+    <ns1:hasName>Schulthess,Â Thomas</ns1:hasName>
+    <ns1:hasName>Shan,Â Hongzhang</ns1:hasName>
+    <ns1:hasName>Sharma,Â Anoop</ns1:hasName>
+    <ns1:hasName>Strohmaier,Â Erich</ns1:hasName>
+    <ns1:hasName>Summers,Â MichaelÂ S.</ns1:hasName>
+    <ns1:hasName>Vapnik,Â Vladimir</ns1:hasName>
+    <ns1:hasName>Vardi,Â MosheÂ Y</ns1:hasName>
+    <ns1:hasName>Wang,Â Lin-Wang</ns1:hasName>
+    <ns1:hasName>Whitney,Â Telle</ns1:hasName>
+    <ns1:hasName>Zhao,Â Zhengji</ns1:hasName>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>2008</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2022">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Agrawal,Â Shweta</ns1:hasName>
+    <ns1:hasName>Alizadeh,Â Mohammad</ns1:hasName>
+    <ns1:hasName>Anandkumar,Â Anima</ns1:hasName>
+    <ns1:hasName>Andronick,Â June</ns1:hasName>
+    <ns1:hasName>Bell,Â Okezue</ns1:hasName>
+    <ns1:hasName>Bhandari,Â Siddharth</ns1:hasName>
+    <ns1:hasName>Bohorquez,Â CindyÂ Orozco</ns1:hasName>
+    <ns1:hasName>Boillod-Cerneux,Â France</ns1:hasName>
+    <ns1:hasName>Brace,Â Alexander</ns1:hasName>
+    <ns1:hasName>Brettin,Â Thomas</ns1:hasName>
+    <ns1:hasName>Burrows,Â Michael</ns1:hasName>
+    <ns1:hasName>Caspersen,Â MichaelÂ E.</ns1:hasName>
+    <ns1:hasName>Clark,Â Thomas</ns1:hasName>
+    <ns1:hasName>Clyde,Â Austin</ns1:hasName>
+    <ns1:hasName>Cock,Â DavidÂ Alan</ns1:hasName>
+    <ns1:hasName>Copik,Â Marcin</ns1:hasName>
+    <ns1:hasName>Dallago,Â Christian</ns1:hasName>
+    <ns1:hasName>Dave,Â VrundaÂ A</ns1:hasName>
+    <ns1:hasName>Davis,Â JamesÂ J.</ns1:hasName>
+    <ns1:hasName>Deng,Â Yuntian</ns1:hasName>
+    <ns1:hasName>Derrin,Â Philip</ns1:hasName>
+    <ns1:hasName>Elias,Â Nathan</ns1:hasName>
+    <ns1:hasName>Elkaduwe,Â Dhammika</ns1:hasName>
+    <ns1:hasName>Elphinstone,Â Kevin</ns1:hasName>
+    <ns1:hasName>Emani,Â Murali</ns1:hasName>
+    <ns1:hasName>Engelhardt,Â Kai</ns1:hasName>
+    <ns1:hasName>Fedeli,Â Luca</ns1:hasName>
+    <ns1:hasName>Ferragina,Â Paolo</ns1:hasName>
+    <ns1:hasName>Foreman,Â Sam</ns1:hasName>
+    <ns1:hasName>Foster,Â IanÂ T</ns1:hasName>
+    <ns1:hasName>Ghoshal,Â Suprovat</ns1:hasName>
+    <ns1:hasName>Gibbs,Â Thomas</ns1:hasName>
+    <ns1:hasName>Gott,Â KevinÂ N</ns1:hasName>
+    <ns1:hasName>Guan,Â Hannah</ns1:hasName>
+    <ns1:hasName>Hall,Â Wendy</ns1:hasName>
+    <ns1:hasName>Hayot-Sasson,Â Valerie</ns1:hasName>
+    <ns1:hasName>Heiser,Â Gernot</ns1:hasName>
+    <ns1:hasName>Hillairet,Â Conrad</ns1:hasName>
+    <ns1:hasName>Hippe,Â Kyle</ns1:hasName>
+    <ns1:hasName>Horowitz,Â MarkÂ A</ns1:hasName>
+    <ns1:hasName>Huebl,Â Axel</ns1:hasName>
+    <ns1:hasName>Irvin,Â Michael</ns1:hasName>
+    <ns1:hasName>Ishii,Â MasadoÂ Alexander</ns1:hasName>
+    <ns1:hasName>Jain,Â RameshÂ C</ns1:hasName>
+    <ns1:hasName>Jaure,Â Stephan</ns1:hasName>
+    <ns1:hasName>Kale,Â Bharat</ns1:hasName>
+    <ns1:hasName>Klein,Â Gerwin</ns1:hasName>
+    <ns1:hasName>Kolanski,Â Rafal</ns1:hasName>
+    <ns1:hasName>Konstan,Â JosephÂ A</ns1:hasName>
+    <ns1:hasName>Leblanc,Â Adrien</ns1:hasName>
+    <ns1:hasName>Lehe,Â Remi</ns1:hasName>
+    <ns1:hasName>Lin,Â Diangen</ns1:hasName>
+    <ns1:hasName>Lockhart,Â Shelby</ns1:hasName>
+    <ns1:hasName>Ma,Â Heng</ns1:hasName>
+    <ns1:hasName>Mann,Â Carla</ns1:hasName>
+    <ns1:hasName>Manzini,Â Giovanni</ns1:hasName>
+    <ns1:hasName>Metcalfe,Â RobertÂ Melancton</ns1:hasName>
+    <ns1:hasName>Mohapatra,Â Pritish</ns1:hasName>
+    <ns1:hasName>Murray,Â Toby</ns1:hasName>
+    <ns1:hasName>Myers,Â Andrew</ns1:hasName>
+    <ns1:hasName>Nallamothu,Â Sirihaasa</ns1:hasName>
+    <ns1:hasName>Nelson,Â Jelani</ns1:hasName>
+    <ns1:hasName>Nie,Â Weili</ns1:hasName>
+    <ns1:hasName>Norrish,Â Michael</ns1:hasName>
+    <ns1:hasName>Papka,Â MichaelÂ E.</ns1:hasName>
+    <ns1:hasName>Papworth,Â DavidÂ B</ns1:hasName>
+    <ns1:hasName>Pauloski,Â JamesÂ Gregory</ns1:hasName>
+    <ns1:hasName>Perez-Rivera,Â Danilo</ns1:hasName>
+    <ns1:hasName>Piechurski,Â Christelle</ns1:hasName>
+    <ns1:hasName>Ramanathan,Â Arvind</ns1:hasName>
+    <ns1:hasName>Russell,Â Stuart</ns1:hasName>
+    <ns1:hasName>Sarangi,Â SmrutiÂ Ranjan</ns1:hasName>
+    <ns1:hasName>Sato,Â Mitsuhisa</ns1:hasName>
+    <ns1:hasName>Scholkopf,Â Bernhard</ns1:hasName>
+    <ns1:hasName>Sekar,Â Sruthi</ns1:hasName>
+    <ns1:hasName>Sewell,Â Thomas</ns1:hasName>
+    <ns1:hasName>Shen,Â Heng Tao</ns1:hasName>
+    <ns1:hasName>Sherif,Â Suhail</ns1:hasName>
+    <ns1:hasName>Shukla,Â Maulik</ns1:hasName>
+    <ns1:hasName>Stevens,Â Rick</ns1:hasName>
+    <ns1:hasName>Sugiura,Â Yuta</ns1:hasName>
+    <ns1:hasName>Tardos,Â Eva</ns1:hasName>
+    <ns1:hasName>Tauman Kalai,Â Yael</ns1:hasName>
+    <ns1:hasName>Tuch,Â Harvey</ns1:hasName>
+    <ns1:hasName>Vahdat,Â Arash</ns1:hasName>
+    <ns1:hasName>Vay,Â Jean-Luc</ns1:hasName>
+    <ns1:hasName>Vincenti,Â HenriÂ Paul</ns1:hasName>
+    <ns1:hasName>Vishwanath,Â Venkatram</ns1:hasName>
+    <ns1:hasName>Ward,Â Logan</ns1:hasName>
+    <ns1:hasName>Winwood,Â Simon</ns1:hasName>
+    <ns1:hasName>Xiao,Â Chaowei</ns1:hasName>
+    <ns1:hasName>Xie,Â Zhen</ns1:hasName>
+    <ns1:hasName>Yadav,Â Deepika</ns1:hasName>
+    <ns1:hasName>Zaim,Â Neil</ns1:hasName>
+    <ns1:hasName>Zhang,Â Bin</ns1:hasName>
+    <ns1:hasName>Zhang,Â Weiqun</ns1:hasName>
+    <ns1:hasName>Zvyagin,Â Maxim</ns1:hasName>
+    <ns1:hasAward>ACM India Outstanding Contributions in Computing by a Woman Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Charles P. "Chuck" Thacker Breakthrough in Computing Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Outstanding Contribution to Computing Education Award</ns1:hasAward>
+    <ns1:hasAward>CCF-ACM Award for Artificial Intelligence</ns1:hasAward>
+    <ns1:hasAward>IPSJ/ACM Award for Early Career Contributions to Global Research</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasYear>2022</ns1:hasYear>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Pacific Rim</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2013">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Adams,Â Nikolaus</ns1:hasName>
+    <ns1:hasName>Ballard,Â Grey</ns1:hasName>
+    <ns1:hasName>Barras,Â Bruno</ns1:hasName>
+    <ns1:hasName>Bekas,Â Costas</ns1:hasName>
+    <ns1:hasName>Bertot,Â Yves</ns1:hasName>
+    <ns1:hasName>Bertsch,Â Adam</ns1:hasName>
+    <ns1:hasName>Blei,Â DavidÂ M.</ns1:hasName>
+    <ns1:hasName>Blumofe,Â Robert</ns1:hasName>
+    <ns1:hasName>Cappo,Â Donna</ns1:hasName>
+    <ns1:hasName>CastÃ©ran,Â Pierre</ns1:hasName>
+    <ns1:hasName>Coquand,Â Thierry</ns1:hasName>
+    <ns1:hasName>Curioni,Â Alessandro</ns1:hasName>
+    <ns1:hasName>Dongarra,Â Jack</ns1:hasName>
+    <ns1:hasName>Felzenszwalb,Â PedroÂ F</ns1:hasName>
+    <ns1:hasName>FilliÃ¢tre,Â Jean-Christophe</ns1:hasName>
+    <ns1:hasName>Futral,Â Scott</ns1:hasName>
+    <ns1:hasName>Gagliardi,Â Fabrizio</ns1:hasName>
+    <ns1:hasName>Garg,Â Sanjam</ns1:hasName>
+    <ns1:hasName>Gharan,Â ShayanÂ Oveis</ns1:hasName>
+    <ns1:hasName>Goodman,Â James</ns1:hasName>
+    <ns1:hasName>Goos,Â GerhardÂ T</ns1:hasName>
+    <ns1:hasName>Hadjidoukas,Â Panagiotis</ns1:hasName>
+    <ns1:hasName>Harris,Â Russell</ns1:hasName>
+    <ns1:hasName>Hartmanis,Â Juris</ns1:hasName>
+    <ns1:hasName>Hejazialhosseini,Â Babak</ns1:hasName>
+    <ns1:hasName>Herbelin,Â Hugo</ns1:hasName>
+    <ns1:hasName>Huet,Â GerardÂ P</ns1:hasName>
+    <ns1:hasName>Koumoutsakos,Â Petros</ns1:hasName>
+    <ns1:hasName>Lamport,Â Leslie</ns1:hasName>
+    <ns1:hasName>Leiserson,Â CharlesÂ E</ns1:hasName>
+    <ns1:hasName>Lifflander,Â Jonathan</ns1:hasName>
+    <ns1:hasName>Liu,Â Yunhao</ns1:hasName>
+    <ns1:hasName>Murthy,Â Chetan</ns1:hasName>
+    <ns1:hasName>Narayanan,Â P J</ns1:hasName>
+    <ns1:hasName>Paulin-Mohring,Â Christine</ns1:hasName>
+    <ns1:hasName>Petzold,Â Linda</ns1:hasName>
+    <ns1:hasName>Rodger,Â Susan</ns1:hasName>
+    <ns1:hasName>Rossinelli,Â Diego</ns1:hasName>
+    <ns1:hasName>Saptharishi,Â Ramprasad</ns1:hasName>
+    <ns1:hasName>Schmidt,Â Steffen</ns1:hasName>
+    <ns1:hasName>Solomonik,Â Edgar</ns1:hasName>
+    <ns1:hasName>van Leeuwen,Â Jan</ns1:hasName>
+    <ns1:hasName>Yelick,Â Katherine</ns1:hasName>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasYear>2013</ns1:hasYear>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Middle East</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2001">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bajcsy,Â Ruzena</ns1:hasName>
+    <ns1:hasName>Blitch,Â John</ns1:hasName>
+    <ns1:hasName>Dahl,Â Ole-Johan</ns1:hasName>
+    <ns1:hasName>Dale,Â NellÂ B.</ns1:hasName>
+    <ns1:hasName>Hennessy,Â JohnÂ L</ns1:hasName>
+    <ns1:hasName>Holzmann,Â GerardÂ J.</ns1:hasName>
+    <ns1:hasName>Kim,Â Won</ns1:hasName>
+    <ns1:hasName>Myers,Â Eugene</ns1:hasName>
+    <ns1:hasName>Necula,Â George</ns1:hasName>
+    <ns1:hasName>Nygaard,Â Kristen</ns1:hasName>
+    <ns1:hasName>O'Callahan,Â Robert</ns1:hasName>
+    <ns1:hasName>Simons,Â BarbaraÂ B</ns1:hasName>
+    <ns1:hasName>Stoica,Â Ion</ns1:hasName>
+    <ns1:hasName>Wagner,Â David</ns1:hasName>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>2001</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1989">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Brotz,Â DouglasÂ K</ns1:hasName>
+    <ns1:hasName>Cray,Â Seymour</ns1:hasName>
+    <ns1:hasName>Denning,Â PeterÂ J</ns1:hasName>
+    <ns1:hasName>Geschke,Â CharlesÂ M</ns1:hasName>
+    <ns1:hasName>Hillis,Â WilliamÂ Daniel</ns1:hasName>
+    <ns1:hasName>Kahan,Â William</ns1:hasName>
+    <ns1:hasName>Kearns,Â MichaelÂ J.</ns1:hasName>
+    <ns1:hasName>Killian,Â Joe</ns1:hasName>
+    <ns1:hasName>Liu,Â C.L.</ns1:hasName>
+    <ns1:hasName>Newborn,Â Monroe</ns1:hasName>
+    <ns1:hasName>Paxton,Â WilliamÂ H.</ns1:hasName>
+    <ns1:hasName>Saraswat,Â Vijay</ns1:hasName>
+    <ns1:hasName>Taft,Â EdwardÂ A.</ns1:hasName>
+    <ns1:hasName>Warnock,Â John</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>1989</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2006">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Agarwala,Â Aseem</ns1:hasName>
+    <ns1:hasName>Allen,Â Frances</ns1:hasName>
+    <ns1:hasName>Austel,Â Vernon</ns1:hasName>
+    <ns1:hasName>Bhanot,Â Gyan</ns1:hasName>
+    <ns1:hasName>Blumrich,Â Matt</ns1:hasName>
+    <ns1:hasName>Brayton,Â Robert</ns1:hasName>
+    <ns1:hasName>Chen,Â Dong</ns1:hasName>
+    <ns1:hasName>Cuny,Â Janice</ns1:hasName>
+    <ns1:hasName>de Supinski,Â BronisÂ R.</ns1:hasName>
+    <ns1:hasName>Draeger,Â ErikÂ Walter</ns1:hasName>
+    <ns1:hasName>Estrin,Â Deborah</ns1:hasName>
+    <ns1:hasName>Fatatsugi,Â Noriyuki</ns1:hasName>
+    <ns1:hasName>Franchetti,Â Franz</ns1:hasName>
+    <ns1:hasName>Fujikawa,Â Shigenori</ns1:hasName>
+    <ns1:hasName>Gara,Â Alan</ns1:hasName>
+    <ns1:hasName>Giampapa,Â Mark</ns1:hasName>
+    <ns1:hasName>Graham,Â SusanÂ L</ns1:hasName>
+    <ns1:hasName>Gunnels,Â JohnÂ A.</ns1:hasName>
+    <ns1:hasName>Gygi,Â Francois</ns1:hasName>
+    <ns1:hasName>Heidelberger,Â Philip</ns1:hasName>
+    <ns1:hasName>Himeno,Â Ryutaro</ns1:hasName>
+    <ns1:hasName>Ikei,Â Mitsuru</ns1:hasName>
+    <ns1:hasName>Klein,Â Daniel</ns1:hasName>
+    <ns1:hasName>Koishi,Â Takahiro</ns1:hasName>
+    <ns1:hasName>Kral,Â Stefan</ns1:hasName>
+    <ns1:hasName>Lorenz,Â Juergen</ns1:hasName>
+    <ns1:hasName>Meyer,Â Bertrand</ns1:hasName>
+    <ns1:hasName>Narumi,Â Tetsu</ns1:hasName>
+    <ns1:hasName>Ng,Â Yi-Ren</ns1:hasName>
+    <ns1:hasName>Ohno,Â Yousuke</ns1:hasName>
+    <ns1:hasName>Okimoto,Â Noriaki</ns1:hasName>
+    <ns1:hasName>Pomerene,Â JamesÂ H</ns1:hasName>
+    <ns1:hasName>Salapura,Â Valentina</ns1:hasName>
+    <ns1:hasName>Schulz,Â Martin</ns1:hasName>
+    <ns1:hasName>Sexton,Â JamesÂ C.</ns1:hasName>
+    <ns1:hasName>Soltz,Â Ron</ns1:hasName>
+    <ns1:hasName>Spafford,Â EugeneÂ H.</ns1:hasName>
+    <ns1:hasName>Sparck-Jones,Â Karen</ns1:hasName>
+    <ns1:hasName>Suenaga,Â Atsushi</ns1:hasName>
+    <ns1:hasName>Taiji,Â Makoto</ns1:hasName>
+    <ns1:hasName>Ueberhuber,Â ChristophÂ W</ns1:hasName>
+    <ns1:hasName>Vranas,Â Pavlos</ns1:hasName>
+    <ns1:hasName>Wise,Â DavidÂ S</ns1:hasName>
+    <ns1:hasName>Yanai,Â Ryoko</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>2006</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1987">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Amdahl,Â GeneÂ M.</ns1:hasName>
+    <ns1:hasName>Brooks,Â Frederick</ns1:hasName>
+    <ns1:hasName>Brown,Â MarcÂ H.</ns1:hasName>
+    <ns1:hasName>Canny,Â John</ns1:hasName>
+    <ns1:hasName>Cocke,Â John</ns1:hasName>
+    <ns1:hasName>Coffman,Â Ed</ns1:hasName>
+    <ns1:hasName>Curtis,Â KentÂ K.</ns1:hasName>
+    <ns1:hasName>Goldberg,Â Adele</ns1:hasName>
+    <ns1:hasName>Greengard,Â Leslie</ns1:hasName>
+    <ns1:hasName>Ingalls,Â DanielÂ H.H.</ns1:hasName>
+    <ns1:hasName>Kay,Â Alan</ns1:hasName>
+    <ns1:hasName>Ousterhout,Â John</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasYear>1987</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2004">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Barak,Â Boaz</ns1:hasName>
+    <ns1:hasName>Bindignavle,Â Raghuram</ns1:hasName>
+    <ns1:hasName>Brooks,Â Frederick</ns1:hasName>
+    <ns1:hasName>Cerf,Â Vinton</ns1:hasName>
+    <ns1:hasName>Coffman,Â Ed</ns1:hasName>
+    <ns1:hasName>Freund,Â Yoav</ns1:hasName>
+    <ns1:hasName>Gabriel,Â Richard</ns1:hasName>
+    <ns1:hasName>Johari,Â Ramesh</ns1:hasName>
+    <ns1:hasName>Kahn,Â RobertÂ E</ns1:hasName>
+    <ns1:hasName>Lam,Â SimonÂ S</ns1:hasName>
+    <ns1:hasName>Rexford,Â Jennifer</ns1:hasName>
+    <ns1:hasName>Schapire,Â Robert</ns1:hasName>
+    <ns1:hasName>Snodgrass,Â Richard</ns1:hasName>
+    <ns1:hasName>Su,Â Shaowen</ns1:hasName>
+    <ns1:hasName>Witchel,Â Emmett</ns1:hasName>
+    <ns1:hasName>Woo,Â ThomasÂ Y. C.</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>2004</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1983">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Austing,Â RichardÂ H</ns1:hasName>
+    <ns1:hasName>Hildreth,Â Ellen</ns1:hasName>
+    <ns1:hasName>Hopper,Â GraceÂ Murray</ns1:hasName>
+    <ns1:hasName>Johnson,Â Steven</ns1:hasName>
+    <ns1:hasName>Kilburn,Â Tom</ns1:hasName>
+    <ns1:hasName>Reps,Â Thomas</ns1:hasName>
+    <ns1:hasName>Ritchie,Â DennisÂ M.</ns1:hasName>
+    <ns1:hasName>Thompson,Â KennethÂ Lane</ns1:hasName>
+    <ns1:hasName>Wolfson,Â SeymourÂ J</ns1:hasName>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasYear>1983</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1981">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bricklin,Â DanielÂ S</ns1:hasName>
+    <ns1:hasName>Clark,Â WesleyÂ A.</ns1:hasName>
+    <ns1:hasName>Codd,Â EdgarÂ F</ns1:hasName>
+    <ns1:hasName>Finerman,Â Aaron</ns1:hasName>
+    <ns1:hasName>Lee,Â J.A.N.</ns1:hasName>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>1981</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1977">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Backus,Â John</ns1:hasName>
+    <ns1:hasName>Gries,Â DavidÂ Joseph</ns1:hasName>
+    <ns1:hasName>Owicki,Â SusanÂ S</ns1:hasName>
+    <ns1:hasName>Steel,Â ThomasÂ B</ns1:hasName>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>1977</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2015">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Balay,Â Satish</ns1:hasName>
+    <ns1:hasName>Bekas,Â Costas</ns1:hasName>
+    <ns1:hasName>Besta,Â Maciej</ns1:hasName>
+    <ns1:hasName>Brown,Â Jed</ns1:hasName>
+    <ns1:hasName>Chen,Â Valerie</ns1:hasName>
+    <ns1:hasName>Curioni,Â Alessandro</ns1:hasName>
+    <ns1:hasName>Diffie,Â Whitfield</ns1:hasName>
+    <ns1:hasName>Edwards,Â Matthew</ns1:hasName>
+    <ns1:hasName>Fox,Â Armando</ns1:hasName>
+    <ns1:hasName>Ghattas,Â Omar</ns1:hasName>
+    <ns1:hasName>Gropp,Â WilliamÂ D</ns1:hasName>
+    <ns1:hasName>Gurnis,Â Michael</ns1:hasName>
+    <ns1:hasName>Hazra,Â Aritra</ns1:hasName>
+    <ns1:hasName>Hellman,Â Martin</ns1:hasName>
+    <ns1:hasName>Horvitz,Â Eric</ns1:hasName>
+    <ns1:hasName>Ineichen,Â Yves</ns1:hasName>
+    <ns1:hasName>Isaac,Â Tobin</ns1:hasName>
+    <ns1:hasName>Jouppi,Â Norman</ns1:hasName>
+    <ns1:hasName>Knepley,Â Matthew</ns1:hasName>
+    <ns1:hasName>Luby,Â MichaelÂ George</ns1:hasName>
+    <ns1:hasName>Malhotra,Â Dhairya</ns1:hasName>
+    <ns1:hasName>Malossi,Â A. Cristiano I.</ns1:hasName>
+    <ns1:hasName>McInnes,Â LoisÂ C</ns1:hasName>
+    <ns1:hasName>Mirarab,Â Siavash</ns1:hasName>
+    <ns1:hasName>Perrott,Â Ron</ns1:hasName>
+    <ns1:hasName>Rao,Â Karthik</ns1:hasName>
+    <ns1:hasName>Rudi,Â Johann</ns1:hasName>
+    <ns1:hasName>Savage,Â Stefan</ns1:hasName>
+    <ns1:hasName>Shun,Â Julian</ns1:hasName>
+    <ns1:hasName>Sidford,Â Aaron</ns1:hasName>
+    <ns1:hasName>Smith,Â Barry</ns1:hasName>
+    <ns1:hasName>Staar,Â PeterÂ W. J.</ns1:hasName>
+    <ns1:hasName>Stadler,Â Georg</ns1:hasName>
+    <ns1:hasName>Stallman,Â Richard</ns1:hasName>
+    <ns1:hasName>Waters,Â Brent</ns1:hasName>
+    <ns1:hasName>White,Â JohnÂ R.</ns1:hasName>
+    <ns1:hasName>Widom,Â Jennifer</ns1:hasName>
+    <ns1:hasName>Yelick,Â Katherine</ns1:hasName>
+    <ns1:hasName>Zhang,Â Hong</ns1:hasName>
+    <ns1:hasName>Zou,Â Cherry</ns1:hasName>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasYear>2015</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1986">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Cragon,Â HarveyÂ G</ns1:hasName>
+    <ns1:hasName>Ebeling,Â Carl</ns1:hasName>
+    <ns1:hasName>Hopcroft,Â JohnÂ E</ns1:hasName>
+    <ns1:hasName>Joy,Â WilliamÂ N.</ns1:hasName>
+    <ns1:hasName>Knuth,Â DonaldÂ E</ns1:hasName>
+    <ns1:hasName>Maisel,Â Herbert</ns1:hasName>
+    <ns1:hasName>Maple,Â Clair</ns1:hasName>
+    <ns1:hasName>Mulmuley,Â KetanÂ D.</ns1:hasName>
+    <ns1:hasName>Tarjan,Â RobertÂ E</ns1:hasName>
+    <ns1:hasName>Torkel Hastad,Â Johan</ns1:hasName>
+    <ns1:hasName>Ungar,Â DavidÂ M</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>1986</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1975">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Carr III,Â JohnÂ W.</ns1:hasName>
+    <ns1:hasName>Newell,Â Allen</ns1:hasName>
+    <ns1:hasName>Ritchie,Â DennisÂ M.</ns1:hasName>
+    <ns1:hasName>Scherr,Â AllanÂ L.</ns1:hasName>
+    <ns1:hasName>Simon,Â HerbertÂ A</ns1:hasName>
+    <ns1:hasName>Thompson,Â KennethÂ Lane</ns1:hasName>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasYear>1975</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1999">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Behlendorf,Â Brian</ns1:hasName>
+    <ns1:hasName>Boisvert,Â Ronald</ns1:hasName>
+    <ns1:hasName>Borg,Â Anita</ns1:hasName>
+    <ns1:hasName>Brooks,Â Frederick</ns1:hasName>
+    <ns1:hasName>Fielding,Â RoyÂ T.</ns1:hasName>
+    <ns1:hasName>Hartill,Â Rob</ns1:hasName>
+    <ns1:hasName>Hwu,Â Wen-Mei</ns1:hasName>
+    <ns1:hasName>Katz,Â RandyÂ H.</ns1:hasName>
+    <ns1:hasName>Leveson,Â Nancy</ns1:hasName>
+    <ns1:hasName>Robinson,Â David</ns1:hasName>
+    <ns1:hasName>Skolnick,Â Cliff</ns1:hasName>
+    <ns1:hasName>Sleator,Â Daniel</ns1:hasName>
+    <ns1:hasName>Smith,Â JamesÂ E.</ns1:hasName>
+    <ns1:hasName>Stone,Â Antonia</ns1:hasName>
+    <ns1:hasName>Tarjan,Â RobertÂ E</ns1:hasName>
+    <ns1:hasName>Terbush,Â Randy</ns1:hasName>
+    <ns1:hasName>Thau,Â RobertÂ S.</ns1:hasName>
+    <ns1:hasName>van Melkebeek,Â Dieter</ns1:hasName>
+    <ns1:hasName>Wilson,Â Andrew</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasYear>1999</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2020">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Aaronson,Â ScottÂ J</ns1:hasName>
+    <ns1:hasName>Aho,Â AlfredÂ V</ns1:hasName>
+    <ns1:hasName>Amaro,Â RommieÂ E.</ns1:hasName>
+    <ns1:hasName>Anderson,Â Richard</ns1:hasName>
+    <ns1:hasName>Ankireddy,Â Sahithi</ns1:hasName>
+    <ns1:hasName>Azar,Â Yossi</ns1:hasName>
+    <ns1:hasName>Barroso,Â LuizÂ Andre</ns1:hasName>
+    <ns1:hasName>Batra,Â Jatin</ns1:hasName>
+    <ns1:hasName>Bhagwan,Â Ranjita</ns1:hasName>
+    <ns1:hasName>Bondhugula,Â UdayÂ Reddy</ns1:hasName>
+    <ns1:hasName>Bostic,Â Keith</ns1:hasName>
+    <ns1:hasName>Broder,Â Andrei</ns1:hasName>
+    <ns1:hasName>Car,Â Roberto</ns1:hasName>
+    <ns1:hasName>Casalino,Â Lorenzo</ns1:hasName>
+    <ns1:hasName>Chayes,Â Jennifer</ns1:hasName>
+    <ns1:hasName>Chen,Â Mohan</ns1:hasName>
+    <ns1:hasName>Cheshmi,Â Kazem</ns1:hasName>
+    <ns1:hasName>Chong,Â Lillian</ns1:hasName>
+    <ns1:hasName>Corrigan-Gibbs,Â Henry</ns1:hasName>
+    <ns1:hasName>Dommer,Â AbigailÂ C.</ns1:hasName>
+    <ns1:hasName>E,Â Weinan</ns1:hasName>
+    <ns1:hasName>Emani,Â Kameswara Venkatesh</ns1:hasName>
+    <ns1:hasName>Fan,Â Chuchu</ns1:hasName>
+    <ns1:hasName>Franz,Â Michael</ns1:hasName>
+    <ns1:hasName>Gibbs,Â Tom</ns1:hasName>
+    <ns1:hasName>Gollakota,Â Shyamnath</ns1:hasName>
+    <ns1:hasName>Hankin,Â ChrisÂ L.</ns1:hasName>
+    <ns1:hasName>Hardy,Â DavidÂ J</ns1:hasName>
+    <ns1:hasName>Iyer,Â Sridhar</ns1:hasName>
+    <ns1:hasName>Jha,Â Shantenu</ns1:hasName>
+    <ns1:hasName>Jia,Â Weile</ns1:hasName>
+    <ns1:hasName>Jung,Â Ralf</ns1:hasName>
+    <ns1:hasName>Karlin,Â Anna</ns1:hasName>
+    <ns1:hasName>Korish,Â Maurice</ns1:hasName>
+    <ns1:hasName>Kraus,Â Sarit</ns1:hasName>
+    <ns1:hasName>Kurth,Â Thorsten</ns1:hasName>
+    <ns1:hasName>Levesque,Â HectorÂ J.</ns1:hasName>
+    <ns1:hasName>Lin,Â Lin</ns1:hasName>
+    <ns1:hasName>Lu,Â Denghui</ns1:hasName>
+    <ns1:hasName>Maia,Â Julio</ns1:hasName>
+    <ns1:hasName>McGettrick,Â Andrew</ns1:hasName>
+    <ns1:hasName>Minnick,Â Brian</ns1:hasName>
+    <ns1:hasName>Mitzenmacher,Â Michael</ns1:hasName>
+    <ns1:hasName>Olson,Â Michael</ns1:hasName>
+    <ns1:hasName>Phillips,Â James</ns1:hasName>
+    <ns1:hasName>Ramanathan,Â Arvind</ns1:hasName>
+    <ns1:hasName>Rotenberg,Â Marc</ns1:hasName>
+    <ns1:hasName>Sarkar,Â Vivek</ns1:hasName>
+    <ns1:hasName>Saurabh,Â Saket</ns1:hasName>
+    <ns1:hasName>Seltzer,Â Margo</ns1:hasName>
+    <ns1:hasName>Stone,Â John</ns1:hasName>
+    <ns1:hasName>Ullman,Â JeffreyÂ D</ns1:hasName>
+    <ns1:hasName>Upfal,Â Eli</ns1:hasName>
+    <ns1:hasName>Vardhan,Â Madhurima</ns1:hasName>
+    <ns1:hasName>Vardi,Â MosheÂ Y</ns1:hasName>
+    <ns1:hasName>Wang,Â Han</ns1:hasName>
+    <ns1:hasName>Yatani,Â Koji</ns1:hasName>
+    <ns1:hasName>Yuan,Â Emily</ns1:hasName>
+    <ns1:hasName>Zhang,Â Linfeng</ns1:hasName>
+    <ns1:hasName>Zhou,Â Keren</ns1:hasName>
+    <ns1:hasName>Zhou,Â Zhi-Hua</ns1:hasName>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Outstanding Contributions in Computing by a Woman Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Early Career Researcher Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Charles P. "Chuck" Thacker Breakthrough in Computing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Outstanding Contribution to Computing Education Award</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Policy Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>IPSJ/ACM Award for Early Career Contributions to Global Research</ns1:hasAward>
+    <ns1:hasAward>CCF-ACM Award for Artificial Intelligence</ns1:hasAward>
+    <ns1:hasYear>2020</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Latin America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Middle East</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1980">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Cook,Â Douglas</ns1:hasName>
+    <ns1:hasName>Davis,Â RuthÂ E.</ns1:hasName>
+    <ns1:hasName>Galler,Â Bernard</ns1:hasName>
+    <ns1:hasName>Hoare,Â C. AntonyÂ R.</ns1:hasName>
+    <ns1:hasName>Larson,Â LawrenceÂ Edwin</ns1:hasName>
+    <ns1:hasName>Metcalfe,Â RobertÂ M.</ns1:hasName>
+    <ns1:hasName>Metcalfe,Â RobertÂ Melancton</ns1:hasName>
+    <ns1:hasName>Slonim,Â Jacob</ns1:hasName>
+    <ns1:hasName>Wilkes,Â MauriceÂ V.</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasYear>1980</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2018">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Adve,Â Sarita</ns1:hasName>
+    <ns1:hasName>Agarwal,Â Manoj</ns1:hasName>
+    <ns1:hasName>Bahl,Â Victor</ns1:hasName>
+    <ns1:hasName>Balakrishnan,Â Meenakshi</ns1:hasName>
+    <ns1:hasName>Beckett,Â Ryan</ns1:hasName>
+    <ns1:hasName>Bengio,Â Yoshua</ns1:hasName>
+    <ns1:hasName>Climer,Â Sharlee</ns1:hasName>
+    <ns1:hasName>Combs,Â Gerald</ns1:hasName>
+    <ns1:hasName>Daskalakis,Â Constantinos</ns1:hasName>
+    <ns1:hasName>Deslippe,Â Jack</ns1:hasName>
+    <ns1:hasName>Dey,Â Palash</ns1:hasName>
+    <ns1:hasName>Durvasula,Â Naveen</ns1:hasName>
+    <ns1:hasName>Eggers,Â Susan</ns1:hasName>
+    <ns1:hasName>Fagnan,Â Kjiersten (Kirsten)</ns1:hasName>
+    <ns1:hasName>Fatica,Â Massimiliano</ns1:hasName>
+    <ns1:hasName>Finn,Â Chelsea</ns1:hasName>
+    <ns1:hasName>Freedman,Â MichaelÂ J.</ns1:hasName>
+    <ns1:hasName>Gagliardi,Â Fabrizio</ns1:hasName>
+    <ns1:hasName>Gesenhues,Â Linda</ns1:hasName>
+    <ns1:hasName>Goldsmith,Â Andrea</ns1:hasName>
+    <ns1:hasName>Gotterbarn,Â Don</ns1:hasName>
+    <ns1:hasName>Hinton,Â GeoffreyÂ E</ns1:hasName>
+    <ns1:hasName>Hohnerbach,Â Markus</ns1:hasName>
+    <ns1:hasName>Houston,Â Michael</ns1:hasName>
+    <ns1:hasName>Jacobson,Â Daniel</ns1:hasName>
+    <ns1:hasName>Joubert,Â Wayne</ns1:hasName>
+    <ns1:hasName>Justice,Â Amy</ns1:hasName>
+    <ns1:hasName>Kainer,Â David</ns1:hasName>
+    <ns1:hasName>Kautz,Â HenryÂ A</ns1:hasName>
+    <ns1:hasName>Kurth,Â Thorsten</ns1:hasName>
+    <ns1:hasName>LeCun,Â Yann</ns1:hasName>
+    <ns1:hasName>Luehr,Â Nathan</ns1:hasName>
+    <ns1:hasName>Ma,Â Tengyu</ns1:hasName>
+    <ns1:hasName>Mahesh,Â Ankur</ns1:hasName>
+    <ns1:hasName>matheson,Â mike</ns1:hasName>
+    <ns1:hasName>Matsubara,Â Yasuko</ns1:hasName>
+    <ns1:hasName>McGettrick,Â Andrew</ns1:hasName>
+    <ns1:hasName>Mudigonda,Â Mayur</ns1:hasName>
+    <ns1:hasName>Patel,Â ShwetakÂ N</ns1:hasName>
+    <ns1:hasName>Pevzner,Â Pavel</ns1:hasName>
+    <ns1:hasName>Phillips,Â EverettÂ Houston</ns1:hasName>
+    <ns1:hasName>Prabhat,Â Mr</ns1:hasName>
+    <ns1:hasName>Puri,Â Isha</ns1:hasName>
+    <ns1:hasName>Romero,Â Joshua</ns1:hasName>
+    <ns1:hasName>Rosenblum,Â Mendel</ns1:hasName>
+    <ns1:hasName>Sanyal,Â Swagato</ns1:hasName>
+    <ns1:hasName>Saxena,Â Eshika</ns1:hasName>
+    <ns1:hasName>Sedgewick,Â Robert</ns1:hasName>
+    <ns1:hasName>Shenoy,Â Varun</ns1:hasName>
+    <ns1:hasName>Stephenson,Â Chris</ns1:hasName>
+    <ns1:hasName>Treichler,Â Sean</ns1:hasName>
+    <ns1:hasName>Weighill,Â Deborah</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>ACM India Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM/CSTA Cutler-Bell Prize in High School Computing</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>IPSJ/ACM Award for Early Career Contributions to Global Research</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Charles P. "Chuck" Thacker Breakthrough in Computing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>2018</ns1:hasYear>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+    <ns1:hasRegion>Latin America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1985">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bricklin,Â DanielÂ S</ns1:hasName>
+    <ns1:hasName>Chor,Â Ben-Zion</ns1:hasName>
+    <ns1:hasName>Cocke,Â John</ns1:hasName>
+    <ns1:hasName>D'Auria,Â ThomasÂ A</ns1:hasName>
+    <ns1:hasName>Ellis,Â JohnÂ R.</ns1:hasName>
+    <ns1:hasName>Frankston,Â Robert</ns1:hasName>
+    <ns1:hasName>Green,Â Cordell</ns1:hasName>
+    <ns1:hasName>Hillis,Â WilliamÂ Daniel</ns1:hasName>
+    <ns1:hasName>Kahn,Â RobertÂ E</ns1:hasName>
+    <ns1:hasName>Karp,Â Richard</ns1:hasName>
+    <ns1:hasName>Minker,Â Jack</ns1:hasName>
+    <ns1:hasName>Sammet,Â JeanÂ E</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>1985</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1991">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Cerf,Â Vinton</ns1:hasName>
+    <ns1:hasName>Dan,Â Asit</ns1:hasName>
+    <ns1:hasName>Engel,Â GeraldÂ L</ns1:hasName>
+    <ns1:hasName>Gibson,Â GarthÂ A</ns1:hasName>
+    <ns1:hasName>Hsu,Â Feng-hsiung</ns1:hasName>
+    <ns1:hasName>Kahn,Â RobertÂ E</ns1:hasName>
+    <ns1:hasName>Lund,Â Carsten</ns1:hasName>
+    <ns1:hasName>Milner,Â AÂ J</ns1:hasName>
+    <ns1:hasName>Patterson,Â David</ns1:hasName>
+    <ns1:hasName>Schapire,Â Robert</ns1:hasName>
+    <ns1:hasName>Smith,Â Burton</ns1:hasName>
+    <ns1:hasName>Tucker,Â Allen</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>1991</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1978">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Cattell,Â RodericÂ G.</ns1:hasName>
+    <ns1:hasName>Floyd,Â RobertÂ W.</ns1:hasName>
+    <ns1:hasName>Kurzweil,Â Ray</ns1:hasName>
+    <ns1:hasName>Urban,Â Joseph</ns1:hasName>
+    <ns1:hasName>Wagner,Â KathleenÂ A.</ns1:hasName>
+    <ns1:hasName>Weiss,Â EricÂ A.</ns1:hasName>
+    <ns1:hasName>Wirth,Â NiklausÂ E</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasYear>1978</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2011">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Abelson,Â Hal</ns1:hasName>
+    <ns1:hasName>Adams,Â Greg</ns1:hasName>
+    <ns1:hasName>Aoki,Â Takayuki</ns1:hasName>
+    <ns1:hasName>Arora,Â Sanjeev</ns1:hasName>
+    <ns1:hasName>Bautista Gomez,Â LeonardoÂ Arturo</ns1:hasName>
+    <ns1:hasName>Bernaschi,Â Massimo</ns1:hasName>
+    <ns1:hasName>Bisson,Â Mauro</ns1:hasName>
+    <ns1:hasName>Boku,Â Taisuke</ns1:hasName>
+    <ns1:hasName>Boykin,Â TimothyÂ B.</ns1:hasName>
+    <ns1:hasName>Cooper,Â Seth</ns1:hasName>
+    <ns1:hasName>Duchene,Â MichaelÂ J.</ns1:hasName>
+    <ns1:hasName>Duimovich,Â John</ns1:hasName>
+    <ns1:hasName>Endo,Â Toshio</ns1:hasName>
+    <ns1:hasName>Fatica,Â Massimiliano</ns1:hasName>
+    <ns1:hasName>Fedosov,Â Dimitry</ns1:hasName>
+    <ns1:hasName>Fichtner,Â Wolfgang</ns1:hasName>
+    <ns1:hasName>Forrest,Â Stephanie</ns1:hasName>
+    <ns1:hasName>Gamma,Â Erich</ns1:hasName>
+    <ns1:hasName>Gotlieb,Â CalvinÂ C.</ns1:hasName>
+    <ns1:hasName>Graham,Â SusanÂ L</ns1:hasName>
+    <ns1:hasName>Grinberg,Â Leopold</ns1:hasName>
+    <ns1:hasName>Haaland,Â Kevin</ns1:hasName>
+    <ns1:hasName>Hasegawa,Â Yukihiro</ns1:hasName>
+    <ns1:hasName>Insley,Â JosephÂ A</ns1:hasName>
+    <ns1:hasName>Iwata,Â Junichi</ns1:hasName>
+    <ns1:hasName>Jones,Â Julian</ns1:hasName>
+    <ns1:hasName>Karniadakis,Â George</ns1:hasName>
+    <ns1:hasName>Klimeck,Â Gerhard</ns1:hasName>
+    <ns1:hasName>Kumaran,Â Kalyan</ns1:hasName>
+    <ns1:hasName>Kurokawa,Â Motoyoshi</ns1:hasName>
+    <ns1:hasName>Laguna,Â Ignacio</ns1:hasName>
+    <ns1:hasName>Luisier,Â Mathieu</ns1:hasName>
+    <ns1:hasName>Madry,Â Aleksander</ns1:hasName>
+    <ns1:hasName>Maruyama,Â Naoya</ns1:hasName>
+    <ns1:hasName>MATSUOKA,Â SATOSHI</ns1:hasName>
+    <ns1:hasName>Melchionna,Â Simone</ns1:hasName>
+    <ns1:hasName>Minami,Â Kazuo</ns1:hasName>
+    <ns1:hasName>Morozov,Â VitaliÂ A</ns1:hasName>
+    <ns1:hasName>Mulet,Â Philippe</ns1:hasName>
+    <ns1:hasName>Northover,Â Steve</ns1:hasName>
+    <ns1:hasName>Nukada,Â Akira</ns1:hasName>
+    <ns1:hasName>Oden,Â J. Tinsley</ns1:hasName>
+    <ns1:hasName>Olson,Â JudithÂ S</ns1:hasName>
+    <ns1:hasName>Oshiyama,Â Atsushi</ns1:hasName>
+    <ns1:hasName>Papka,Â MichaelÂ E.</ns1:hasName>
+    <ns1:hasName>Pearl,Â Judea</ns1:hasName>
+    <ns1:hasName>Que,Â Xinyu</ns1:hasName>
+    <ns1:hasName>Samet,Â Hanan</ns1:hasName>
+    <ns1:hasName>Shimokawabe,Â Takashi</ns1:hasName>
+    <ns1:hasName>Shoji,Â Fumiyoshi</ns1:hasName>
+    <ns1:hasName>Sohi,Â GurindarÂ S</ns1:hasName>
+    <ns1:hasName>Steurer,Â David</ns1:hasName>
+    <ns1:hasName>Succi,Â Suro</ns1:hasName>
+    <ns1:hasName>Takahashi,Â Daisuke</ns1:hasName>
+    <ns1:hasName>Takaki,Â Tomohiro</ns1:hasName>
+    <ns1:hasName>Thomson,Â Dave</ns1:hasName>
+    <ns1:hasName>Tsuji,Â Miwako</ns1:hasName>
+    <ns1:hasName>Uno,Â Atsuya</ns1:hasName>
+    <ns1:hasName>Von Ahn,Â Luis</ns1:hasName>
+    <ns1:hasName>Weigand,Â John</ns1:hasName>
+    <ns1:hasName>Wulf,Â WilliamÂ A</ns1:hasName>
+    <ns1:hasName>Yamanaka,Â Akinori</ns1:hasName>
+    <ns1:hasName>Yokokawa,Â Mitsuo</ns1:hasName>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Gordon Bell Prize</ns1:hasAward>
+    <ns1:hasAward>ACM Prize in Computing</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS George Michael Memorial HPC Fellowships</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Ken Kennedy Award</ns1:hasAward>
+    <ns1:hasAward>SIAM/ACM Prize in Computational Science and Engineering</ns1:hasAward>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>2011</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Asia</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1970">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Alt,Â FranzÂ L</ns1:hasName>
+    <ns1:hasName>Wilkinson,Â J.Â H.</ns1:hasName>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1970</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1998">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Amarel,Â Saul</ns1:hasName>
+    <ns1:hasName>Ashenhurst,Â RÂ L</ns1:hasName>
+    <ns1:hasName>Balakrishnan,Â Hari</ns1:hasName>
+    <ns1:hasName>Bryant,Â RandalÂ E</ns1:hasName>
+    <ns1:hasName>Chambers,Â JohnÂ M.</ns1:hasName>
+    <ns1:hasName>Clarke,Â Edmund</ns1:hasName>
+    <ns1:hasName>Denning,Â PeterÂ J</ns1:hasName>
+    <ns1:hasName>Emerson,Â E.Â Allen</ns1:hasName>
+    <ns1:hasName>Gage,Â John</ns1:hasName>
+    <ns1:hasName>Gray,Â Jim</ns1:hasName>
+    <ns1:hasName>McMillan,Â KennethÂ L.</ns1:hasName>
+    <ns1:hasName>Silberschatz,Â Abraham</ns1:hasName>
+    <ns1:hasName>Watanabe,Â T.</ns1:hasName>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Presidential Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasYear>1998</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1976">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Allen,Â Frances</ns1:hasName>
+    <ns1:hasName>Canning,Â RichardÂ G.</ns1:hasName>
+    <ns1:hasName>Cocke,Â John</ns1:hasName>
+    <ns1:hasName>Dorsey,Â W.Â Smith</ns1:hasName>
+    <ns1:hasName>Rabin,Â MichaelÂ O.</ns1:hasName>
+    <ns1:hasName>Scott,Â DanaÂ S</ns1:hasName>
+    <ns1:hasName>Shortliffe,Â EdwardÂ H</ns1:hasName>
+    <ns1:hasName>Van Atta,Â BruceÂ W.</ns1:hasName>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasYear>1976</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1972">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Cress,Â PaulÂ H.</ns1:hasName>
+    <ns1:hasName>Dijkstra,Â EdsgerÂ W</ns1:hasName>
+    <ns1:hasName>Dirksen,Â PaulÂ E.</ns1:hasName>
+    <ns1:hasName>Forsythe,Â GeorgeÂ E.</ns1:hasName>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasYear>1972</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1996">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Adleman,Â LeonardÂ M.</ns1:hasName>
+    <ns1:hasName>Aiken,Â Robert</ns1:hasName>
+    <ns1:hasName>Berghel,Â Hal</ns1:hasName>
+    <ns1:hasName>Denning,Â PeterÂ J</ns1:hasName>
+    <ns1:hasName>Diffie,Â Whitfield</ns1:hasName>
+    <ns1:hasName>Goldwasser,Â Shafi</ns1:hasName>
+    <ns1:hasName>Hellman,Â Martin</ns1:hasName>
+    <ns1:hasName>Merkle,Â Ralph</ns1:hasName>
+    <ns1:hasName>Patt,Â Yale</ns1:hasName>
+    <ns1:hasName>Pnueli,Â Amir</ns1:hasName>
+    <ns1:hasName>Rivest,Â RonaldÂ L</ns1:hasName>
+    <ns1:hasName>Shamir,Â Adi</ns1:hasName>
+    <ns1:hasName>Tu,Â Xiaoyuan</ns1:hasName>
+    <ns1:hasName>Waldspurger,Â Carl</ns1:hasName>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasYear>1996</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1979">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Barton,Â RobertÂ S.</ns1:hasName>
+    <ns1:hasName>Hammer,Â Carl</ns1:hasName>
+    <ns1:hasName>Iverson,Â KennethÂ E.</ns1:hasName>
+    <ns1:hasName>Lynn,Â MÂ Stuart</ns1:hasName>
+    <ns1:hasName>Parnas,Â DavidÂ Lorge</ns1:hasName>
+    <ns1:hasName>Wozniak,Â Stephen</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasYear>1979</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1990">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Batcher,Â KennethÂ E.</ns1:hasName>
+    <ns1:hasName>Carlson,Â Walter</ns1:hasName>
+    <ns1:hasName>Corbato,Â FernandoÂ J</ns1:hasName>
+    <ns1:hasName>Engelbart,Â Douglas</ns1:hasName>
+    <ns1:hasName>English,Â WilliamÂ K.</ns1:hasName>
+    <ns1:hasName>Geffner,Â Hector</ns1:hasName>
+    <ns1:hasName>Heckerman,Â David</ns1:hasName>
+    <ns1:hasName>Nissan,Â Noam</ns1:hasName>
+    <ns1:hasName>Poucher,Â WilliamÂ B</ns1:hasName>
+    <ns1:hasName>Rulifson,Â Jeff</ns1:hasName>
+    <ns1:hasName>Stallman,Â Richard</ns1:hasName>
+    <ns1:hasName>Sussman,Â Gerald</ns1:hasName>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasYear>1990</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1988">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bradshaw,Â CharlesÂ L</ns1:hasName>
+    <ns1:hasName>Chamberlin,Â Donald</ns1:hasName>
+    <ns1:hasName>Condon,Â Anne</ns1:hasName>
+    <ns1:hasName>DeFanti,Â Thomas</ns1:hasName>
+    <ns1:hasName>Dill,Â David</ns1:hasName>
+    <ns1:hasName>Gray,Â Jim</ns1:hasName>
+    <ns1:hasName>Held,Â Gerald</ns1:hasName>
+    <ns1:hasName>Karchmer,Â Mauricio</ns1:hasName>
+    <ns1:hasName>Lorie,Â RaymondÂ A</ns1:hasName>
+    <ns1:hasName>Putzolu,Â Gianfranco</ns1:hasName>
+    <ns1:hasName>Selinger,Â Patricia</ns1:hasName>
+    <ns1:hasName>Siewiorek,Â Daniel</ns1:hasName>
+    <ns1:hasName>Steele,Â GuyÂ L</ns1:hasName>
+    <ns1:hasName>Stonebraker,Â Michael</ns1:hasName>
+    <ns1:hasName>Sutherland,Â Ivan</ns1:hasName>
+    <ns1:hasName>Traiger,Â Irv</ns1:hasName>
+    <ns1:hasName>Wong,Â Eugene</ns1:hasName>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1988</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1974">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Baird,Â GeorgeÂ N.</ns1:hasName>
+    <ns1:hasName>Bobrow,Â Daniel</ns1:hasName>
+    <ns1:hasName>Gorn,Â Saul</ns1:hasName>
+    <ns1:hasName>Knuth,Â DonaldÂ E</ns1:hasName>
+    <ns1:hasName>Manna,Â Zohar</ns1:hasName>
+    <ns1:hasName>Ness,Â Stephen</ns1:hasName>
+    <ns1:hasName>Vuillemin,Â Jean</ns1:hasName>
+    <ns1:hasName>Wegbreit,Â Ben</ns1:hasName>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1974</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1966">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Perlis,Â A.Â J.</ns1:hasName>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1966</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1973">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Atchison,Â WilliamÂ F.</ns1:hasName>
+    <ns1:hasName>Bachman,Â CharlesÂ W</ns1:hasName>
+    <ns1:hasName>Breed,Â Lawrence</ns1:hasName>
+    <ns1:hasName>Hoare,Â C. AntonyÂ R.</ns1:hasName>
+    <ns1:hasName>Lathwell,Â Richard</ns1:hasName>
+    <ns1:hasName>Moore,Â Roger</ns1:hasName>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Programming Systems and Languages Paper Award</ns1:hasAward>
+    <ns1:hasYear>1973</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2003">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bajcsy,Â Ruzena</ns1:hasName>
+    <ns1:hasName>Ball,Â Patrick</ns1:hasName>
+    <ns1:hasName>Doan,Â AnHai</ns1:hasName>
+    <ns1:hasName>Feldman,Â Stuart</ns1:hasName>
+    <ns1:hasName>Fisher,Â JosephÂ A. (Josh)</ns1:hasName>
+    <ns1:hasName>Haussler,Â David</ns1:hasName>
+    <ns1:hasName>Johnson,Â Mark Scott</ns1:hasName>
+    <ns1:hasName>Katabi,Â Dina</ns1:hasName>
+    <ns1:hasName>Kay,Â Alan</ns1:hasName>
+    <ns1:hasName>Keckler,Â Stephen</ns1:hasName>
+    <ns1:hasName>Khot,Â Subhash</ns1:hasName>
+    <ns1:hasName>Miller,Â GaryÂ L</ns1:hasName>
+    <ns1:hasName>Pearl,Â Judea</ns1:hasName>
+    <ns1:hasName>Rabin,Â MichaelÂ O.</ns1:hasName>
+    <ns1:hasName>Sahni,Â SartajÂ K</ns1:hasName>
+    <ns1:hasName>Solovay,Â Robert</ns1:hasName>
+    <ns1:hasName>Strassen,Â Volker</ns1:hasName>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Paris Kanellakis Theory and Practice Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasYear>2003</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1967">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Wilkes,Â MauriceÂ V.</ns1:hasName>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1967</ns1:hasYear>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1969">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Minsky,Â Marvin</ns1:hasName>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1969</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1984">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Bach,Â CarlÂ E.</ns1:hasName>
+    <ns1:hasName>Baird,Â Henry</ns1:hasName>
+    <ns1:hasName>Dennis,Â Jack</ns1:hasName>
+    <ns1:hasName>Ingalls,Â DanielÂ H.H.</ns1:hasName>
+    <ns1:hasName>Katevenis,Â ManolisÂ G.H.</ns1:hasName>
+    <ns1:hasName>Korein,Â James</ns1:hasName>
+    <ns1:hasName>Lampson,Â ButlerÂ W</ns1:hasName>
+    <ns1:hasName>Rosen,Â Saul</ns1:hasName>
+    <ns1:hasName>Taulbee,Â OrrinÂ E.</ns1:hasName>
+    <ns1:hasName>Taylor,Â RobertÂ W</ns1:hasName>
+    <ns1:hasName>Thacker,Â CharlesÂ P</ns1:hasName>
+    <ns1:hasName>Wirth,Â NiklausÂ E</ns1:hasName>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>ACM Grace Murray Hopper Award</ns1:hasAward>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM Distinguished Service Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1984</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+    <ns1:hasRegion>Europe</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1968">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Hamming,Â RichardÂ W</ns1:hasName>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasYear>1968</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/2023">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Seltzer,Â Margo</ns1:hasName>
+    <ns1:hasAward>ACM Athena Lecturer Award</ns1:hasAward>
+    <ns1:hasYear>2023</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/resource/1994">
+    <rdf:type rdf:resource="http://example.org/ontology/Person"/>
+    <ns1:hasName>Birrell,Â Andrew</ns1:hasName>
+    <ns1:hasName>Brooks,Â Frederick</ns1:hasName>
+    <ns1:hasName>Feigenbaum,Â EdwardÂ A</ns1:hasName>
+    <ns1:hasName>Karger,Â David</ns1:hasName>
+    <ns1:hasName>Nelson,Â Bruce</ns1:hasName>
+    <ns1:hasName>Raman,Â T.V.</ns1:hasName>
+    <ns1:hasName>Reddy,Â Raj</ns1:hasName>
+    <ns1:hasName>Tanenbaum,Â AndrewÂ S.</ns1:hasName>
+    <ns1:hasName>Thornton,Â JamesÂ E.</ns1:hasName>
+    <ns1:hasName>White,Â JohnÂ R.</ns1:hasName>
+    <ns1:hasAward>ACM Software System Award</ns1:hasAward>
+    <ns1:hasAward>ACM AAAI Allen Newell Award</ns1:hasAward>
+    <ns1:hasAward>ACM A. M. Turing Award</ns1:hasAward>
+    <ns1:hasAward>ACM Doctoral Dissertation Award</ns1:hasAward>
+    <ns1:hasAward>ACM Karl V. Karlstrom Outstanding Educator Award</ns1:hasAward>
+    <ns1:hasAward>ACM-IEEE CS Eckert-Mauchly Award</ns1:hasAward>
+    <ns1:hasAward>Outstanding Contribution to ACM Award</ns1:hasAward>
+    <ns1:hasYear>1994</ns1:hasYear>
+    <ns1:hasRegion>North America</ns1:hasRegion>
+  </rdf:Description>
+</rdf:RDF>
