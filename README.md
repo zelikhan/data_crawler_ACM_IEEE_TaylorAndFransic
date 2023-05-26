@@ -6,3 +6,4 @@
 ![image](https://github.com/zelikhan/data_crawler_ACM_IEEE_TaylorAndFransic/assets/114800813/1504e639-d8d2-4849-b2bd-427998efa206)
 ![image](https://github.com/zelikhan/data_crawler_ACM_IEEE_TaylorAndFransic/assets/114800813/370e1259-11c1-4bf1-99d1-e9cd39d79016)
 
+
